@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://s19tot.ryancordell.org/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="https://s19tot.ryancordell.org/assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Technologies of Text, Spring 2019</title>
+		<description>»Technologies of Text« is an experiential course about media, technology, and literary imagination in the Northeastern University English Department.</description>
+		<link>https://s19tot.ryancordell.org/</link>
+		<atom:link href="https://s19tot.ryancordell.org/feed.xml" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

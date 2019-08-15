@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://s19tot.ryancordell.org/sitemap.xml
