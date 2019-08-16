@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  
+  <!--
+/**
+ * @license
+ * MyFonts Webfont Build ID 3444637, 2017-08-30T22:42:22-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Octant-Regular by Catharsis Fonts
+ * URL: https://www.myfonts.com/fonts/catharsis-fonts/octant/regular/
+ * 
+ * Webfont: OctantLigatures-Regular by Catharsis Fonts
+ * URL: https://www.myfonts.com/fonts/catharsis-fonts/octant/ligatures/
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3444637
+ * Licensed pageviews: 10,000
+ * Webfonts copyright: Created by Christian Thalmann with FontForge and Glyphs.  Kerned
+ * by Igino Marini's iKern service.
+ * 
+ * © 2017 MyFonts Inc
+*/
+
+-->
+  <link rel="stylesheet" type="text/css" href="/css/Octant.css">
+
+  <title>British Library 19th-Century Newspapers</title>
+
+  <meta name="author" content="Ryan Cordell" />
+
+  
+
+  <link rel="alternate" type="application/rss+xml" title="Reading Machines — Technology and the Book - An experiential graduate course in the history of textual technologies at Northeastern University." href="/feed.xml" />
+
+  
+
+  
+    
+      
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" />
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/bootstrap-social.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+
+  
+
+  
+
+  
+
+    <!-- Facebook OpenGraph tags -->
+  
+
+  
+  <meta property="og:title" content="British Library 19th-Century Newspapers" />
+  
+
+   
+  <meta property="og:description" content="Building upon previous projects, Oceanic Exchanges is using approximately 3 million pages of nineteenth-century newspapers from the British Library to better understand the structure of digitised newspaper collections and the spread of texts and ideas across global information networks. Although the British Library’s physical collections of historical newspapers are far...">
+  
+
+
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="s19rm.ryancordell.org/2018-02-06-data-reports-BL1-BL2/" />
+  <link rel="canonical" href="s19rm.ryancordell.org/2018-02-06-data-reports-BL1-BL2/" />
+  
+
+  
+  <meta property="og:image" content="s19rm.ryancordell.org/img/oe.png" />
+  
+  
+
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@ryancordell" />
+  <meta name="twitter:creator" content="@ryancordell" />
+
+  
+  <meta name="twitter:title" content="British Library 19th-Century Newspapers" />
+  
+
+  
+  <meta name="twitter:description" content="Building upon previous projects, Oceanic Exchanges is using approximately 3 million pages of nineteenth-century newspapers from the British Library to better understand the structure of digitised newspaper collections and the spread of texts and ideas across global information networks. Although the British Library’s physical collections of historical newspapers are far...">
+  
+
+  
+  <meta name="twitter:image" content="s19rm.ryancordell.org/img/oe.png" />
+  
+
+</head>
+
+
+  <body>
+
+    
+  
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+        <a class="navbar-brand" href="s19rm.ryancordell.org">Reading Machines — Technology and the Book</a>
+      
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/team">Team</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/news">News</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="https://osf.io/wa94s/">Data</a>
+
+          </li>
+        
+        
+        
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">Project Links</a>
+            <div class="navlinks-children">
+              
+                
+                  
+            
+
+
+
+
+
+<a href="https://diggingintodata.org/">Digging Into Data</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+
+<a href="/associated-projects">Associated Projects</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+
+<a href="https://twitter.com/oceanicex">Twitter</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+
+<a href="https://github.com/OceanicExchanges">Github</a>
+
+                
+              
+            </div>
+          </li>
+        
+        
+      </ul>
+    </div>
+
+	
+	<div class="avatar-container">
+	  <div class="avatar-img-border">
+	    <a href="s19rm.ryancordell.org ">
+	      <img class="avatar-img" src="/img/oe.png" />
+		</a>
+	  </div>
+	</div>
+	
+
+  </div>
+</nav>
+
+
+    <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="post-heading">
+          <h1>British Library 19th-Century Newspapers</h1>
+		  
+		  
+		  
+		  <span class="post-meta">Posted on February 6, 2018</span>
+		  
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+<!-- Look the author details up from the site config. -->
+<!--  -->
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+<!-- Output author details if some exist. -->
+	
+	<p><strong>Written by:</strong>
+		
+  		
+  		<a href="http://mhbeals.com" target="_blank"><strong>Melodee Beals</a></strong>, 
+		
+  		
+  		<a href="https://english.chass.ncsu.edu/faculty_staff/pcfyfe" target="_blank"><strong>Paul Fyfe</a></strong>
+		
+	</p>
+
+    
+      <article role="main" class="blog-post">
+        <p>Building upon <a href="#Related">previous projects</a>, <em>Oceanic Exchanges</em> is using approximately 3 million pages of nineteenth-century newspapers from the British Library to better understand the structure of digitised newspaper collections and the spread of texts and ideas across global information networks. Although the British Library’s physical collections of historical newspapers are far more extensive, these newspapers were selected for digitisation to provide a representative sample of the wider collection, covering the metropolitan and provincial press, ranging in political and geographical coverage, and representing both English- and Welsh-language titles. The library has and continues to grow its digital newspaper collections in stages; OcEx uses XML data from the first two of these stages, known as “<a href="https://www.gale.com/c/british-library-newspapers-part-i">Part I</a>” and “<a href="https://www.gale.com/c/british-library-newspapers-part-ii">Part II</a>”.</p>
+
+<h2 id="history-of-the-collection">History of the Collection</h2>
+
+<p>The British Library’s initial efforts to digitise its newspaper collections in the 2000s were funded by a series of grants from the United Kingdom’s Joint Information Systems Committee (JISC). The proposed “British Newspapers 1800-1900” project had an initial target of making 2 million pages available and broadly useful to scholars, researchers, and the public. Because of constraints of budget and available technology, newspapers were not directly scanned to digital files. Instead, new microfilms were made of the newspapers and these films were subsequently scanned. The British Library partnered with commercial vendors to process the scanned images, separate articles into page zones, conduct optical character recognition (OCR) on the text, impose a metadata scheme, and build a searchable database for the collection. These partners included Gale Cengage and later Brightsolid, who continues to expand the collection as the British Newspaper Archive. More information on the library’s digitisation projects can be found <a href="http://www.bl.uk/reshelp/findhelprestype/news/newspdigproj/index.html">here</a>.</p>
+
+<h2 id="composition">Composition</h2>
+
+<p>The British Library’s digitised newspaper collections contains 69 distinct publications. Of these, 21 were produced in London, 33 in England outside London, 5 in Scotland, 5 in Wales, and 2 in Ireland. Many of the titles published in Scotland, Wales, and Ireland are primarily held by their respective national libraries, which have pursued separate digitisation projects. The Library aimed to provide the full date range of each selected title to the extent allowable by physical collection and within the project criteria (1800-1900). Thus, titles such as the <em>Glasgow Herald</em>, which began publication in 1783 and continues today, was only digitised from 1820-1900, or from the first issue held by the British Library until the project cut-off date. Although the entire collection covers the period from 1800 to 1900, the number of titles increases substantially as the century progresses.</p>
+
+<h2 id="data-and-metadata">Data and Metadata</h2>
+<p>The data for the digitised newspapers comes in two forms: a scanned image of each newspaper page and an XML file containing the text and metadata from each issue. The BL obtained the text of these newspapers through optical character recognition (OCR) – an automatic process that translates an image of text into machine-readable characters. Of course, the OCR process is hardly perfect; it sometimes struggles with non-standard fonts, broken or light print, poor quality scans, skewed pages, complex typographical layouts, advertisements, tables, and more. The overall OCR quality of BL1 and BL2 collections is approximately 60-85% but varies widely within and between titles. The machine-readable text appears within the XML file, surrounded by metadata that describes various features about the page, including the title, date, section, article, and page number. With the help of its team of scholar advisors and commercial partners, JISC and the BL established a standard metadata schema to label information consistently across different newspapers and collections. The metadata itself was created partly through automatic processes and partly by contract workers.</p>
+
+<p>Owing to the joint nature of the digitisation project, the machine-readable data and metadata for the BL collections currently exists in multiple forms. The version most readily accessible to individual researchers can be obtained from Gale. Each XML file contains information for a single article, or textual unit, within the collection. Within a holding element, it contains the following metadata tree:</p>
+
+<ul>
+  <li>Standardised identifier</li>
+  <li>Newspaper title</li>
+  <li>Standardised title abbreviation</li>
+  <li>Project codes</li>
+  <li>Digitized collection name</li>
+  <li>Issue number</li>
+  <li>Date as printed</li>
+  <li>Standardised date (Month, DD, YYYY)</li>
+  <li>Standardised date (YYYYMMDD)</li>
+  <li>Day of the week</li>
+  <li>Number of Pages</li>
+  <li>Copyright holder</li>
+  <li>Language</li>
+  <li>Unique ID for publication</li>
+  <li>Holding Library</li>
+  <li>Citation of the physical item
+    <ul>
+      <li>Title metadata
+        <ul>
+          <li>Title as recorded in the MARC Library Catalogue</li>
+        </ul>
+      </li>
+      <li>Dates of publication</li>
+      <li>Genre, such as newspaper</li>
+      <li>Conversion credit, usually a vendor</li>
+    </ul>
+  </li>
+  <li>Article
+    <ul>
+      <li>Unique ID</li>
+      <li>OCR quality</li>
+      <li>SC, or standardized category of article</li>
+      <li>Unique ID(s) of page(s)</li>
+      <li>Unique ID(s) of individual column(s)</li>
+      <li>Column number</li>
+      <li>Headline</li>
+      <li>Article type</li>
+    </ul>
+  </li>
+</ul>
+
+<p>This is followed by the machine-readable text, in which each individual word is encoded with spatial coordinates of its location on the corresponding image, as well as marker elements indicating new pages or columns.</p>
+
+<p>A second, pre-processed version of the data is also held by British Library Labs and has been used by BL Labs Competition winners and award recipients in supported projects. This version of the XML is encoded at page rather than issue or article level. Within a holding element, it contains the following tree</p>
+
+<ul>
+  <li>Title Metadata
+    <ul>
+      <li>Title, as written</li>
+      <li>Normalised title across all variants</li>
+      <li>Standardised title abbreviation</li>
+      <li>Variant titles, with associated dates</li>
+      <li>Place of publication</li>
+      <li>Dates of publication</li>
+      <li>Genre, such as newspaper</li>
+      <li>Sub-collection, such as Regional Daily</li>
+    </ul>
+  </li>
+  <li>Issue Metadata
+    <ul>
+      <li>Volume Number</li>
+      <li>Issue Number</li>
+      <li>Date as printed</li>
+      <li>Normalised date (YYYY.MM.DD)</li>
+      <li>Number of pages</li>
+      <li>The microfilm reel number</li>
+      <li>The OCR quality</li>
+    </ul>
+  </li>
+  <li>Page image data
+    <ul>
+      <li>The number of the image within that issue</li>
+      <li>The filename</li>
+      <li>The spatial coordinates for the page within the image</li>
+      <li>The degree of page skew</li>
+    </ul>
+  </li>
+</ul>
+
+<p>As with the Gale version, each word is encoded with the spatial coordinates. As it is encoded at page level, it does not contain the marker elements for page or column breaks. This provides a possibly more researcher-friendly variant of the XML, with human-readable element names and an intuitive nesting of elements, but lacks any form of delimitation between articles, which can be found in the GALE version.</p>
+
+<h2 id="access-and-use">Access and Use</h2>
+
+<p>In the United Kingdom, the BL1 and BL2 digitized newspapers collections can be freely accessed within the British Library reading rooms as well as remotely through Gale and British Library interfaces provided to all UK Higher Education Institutions (and some others) via JISC agreements. The underlying data can be accessed by request and a cost recovery fee by subscribing institutions. Elsewhere, the BL1 and BL2 digitised newspapers are accessible only through institutional subscriptions to Gale’s products, with the same provision for requesting source files.</p>
+
+<p>While OcEx cannot share the source data provide by Gale and the British Library, it can share its derivatives, analyses, and visualizations of this data as approved transformational uses, according to current copyright law. Small quotations and downsampled page images can also be shared under academic fair use provisions.</p>
+
+<p><a name="Related"></a>
+## Related Projects
++ Beals, M. H. <a href="http://www.scissorsandpaste.net"><em>Scissors and Paste</em></a> 
++ Cordell, Ryan. <a href="http://www.viraltexts.org"><em>Viral Texts</em></a>
++ Fyfe, Paul. <a href="https://repository.lib.ncsu.edu/bitstream/handle/1840.20/33457/fyfe.newspaper.archaeology.VPR.pdf?sequence=1">“An Archaeology of Victorian  Newspapers” <em>Victorian Periodicals Review</em> 49:4 (2016): 546-577</a></p>
+
+      </article>
+
+      
+        <div class="blog-tags">
+          Tags:
+          
+            dh, DiD, data reports
+          
+        </div>
+      
+
+      
+        <!-- Check if any share-links are active -->
+
+
+
+
+<section id = "social-share-section">
+  <span class="sr-only">Share: </span>
+
+  
+  <!--- Share on Twitter -->
+    <a href="https://twitter.com/intent/tweet?text=British+Library+19th-Century+Newspapers+s19rm.ryancordell.org/2018-02-06-data-reports-BL1-BL2/"
+      class="btn btn-social-icon btn-twitter" title="Share on Twitter">
+      <span class="fa fa-fw fa-twitter" aria-hidden="true"></span>
+      <span class="sr-only">Twitter</span>
+    </a>
+  
+
+  
+
+  
+
+  
+
+</section>
+
+
+
+      
+
+      <ul class="pager blog-pager">
+        
+        <li class="previous">
+          <a href="/2018-01-23-data-reports-series/" data-toggle="tooltip" data-placement="top" title="Data Reports Series Introduction">&larr; Previous Post</a>
+        </li>
+        
+        
+        <li class="next">
+          <a href="/2018-02-20-data-reports-finland/" data-toggle="tooltip" data-placement="top" title="Digitized Newspapers at the National Library of Finland, Suomen kansalliskirjaston digitoidut sanomalehdet">Next Post &rarr;</a>
+        </li>
+        
+      </ul>
+
+      
+        <div class="disqus-comments">
+          
+
+        </div>
+      
+    </div>
+  </div>
+</div>
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          
+          <li>
+            <a href="https://github.com/rccordell" title="GitHub">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">GitHub</span>
+            </a>
+          </li>
+          
+		  
+          <li>
+            <a href="https://twitter.com/ryancordell" title="Twitter">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">Twitter</span>
+            </a>
+          </li>
+          
+	  
+      
+		  
+          <li>
+            <a href="mailto:r.cordell@northeastern.edu" title="Email me">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">Email me</span>
+            </a>
+          </li>
+          
+		  
+		  
+		  
+      
+      
+      
+      
+      
+		  
+          <li>
+            <a href="/feed.xml" title="RSS">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">RSS</span>
+            </a>
+          </li>
+          
+      
+      
+      
+        </ul>
+        <p class="copyright text-muted">
+		  Ryan Cordell
+		  &nbsp;&bull;&nbsp;
+		  2018
+
+		  
+		  &nbsp;&bull;&nbsp;
+		  <a href="s19rm.ryancordell.org">s19rm.ryancordell.org</a>
+		  
+	    </p>
+	        <!-- Please don't remove this, keep my open source work credited :) -->
+		<p class="theme-by text-muted">
+		  Theme by
+		  <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+		</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+    
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+
+
+  
+  </body>
+</html>

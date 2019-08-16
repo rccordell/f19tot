@@ -1,0 +1,805 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  
+  <!--
+/**
+ * @license
+ * MyFonts Webfont Build ID 3444637, 2017-08-30T22:42:22-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Octant-Regular by Catharsis Fonts
+ * URL: https://www.myfonts.com/fonts/catharsis-fonts/octant/regular/
+ * 
+ * Webfont: OctantLigatures-Regular by Catharsis Fonts
+ * URL: https://www.myfonts.com/fonts/catharsis-fonts/octant/ligatures/
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3444637
+ * Licensed pageviews: 10,000
+ * Webfonts copyright: Created by Christian Thalmann with FontForge and Glyphs.  Kerned
+ * by Igino Marini's iKern service.
+ * 
+ * © 2017 MyFonts Inc
+*/
+
+-->
+  <link rel="stylesheet" type="text/css" href="/css/Octant.css">
+
+  <title>Digitized Newspapers at the National Library of Finland, Suomen kansalliskirjaston digitoidut sanomalehdet</title>
+
+  <meta name="author" content="Ryan Cordell" />
+
+  
+
+  <link rel="alternate" type="application/rss+xml" title="Reading Machines — Technology and the Book - An experiential graduate course in the history of textual technologies at Northeastern University." href="/feed.xml" />
+
+  
+
+  
+    
+      
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" />
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/bootstrap-social.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+
+  
+
+  
+
+  
+
+    <!-- Facebook OpenGraph tags -->
+  
+
+  
+  <meta property="og:title" content="Digitized Newspapers at the National Library of Finland, Suomen kansalliskirjaston digitoidut sanomalehdet" />
+  
+
+   
+  <meta property="og:description" content="Report also available in Suomi The digital collection of the National Library of Finland includes 12.8 million pages of newspapers and journals. Only the newspapers published before 1930 are freely available online at the website of the Library. The collection includes all published newspapers and journals, from the first newspaper...">
+  
+
+
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="s19rm.ryancordell.org/2018-02-20-data-reports-finland/" />
+  <link rel="canonical" href="s19rm.ryancordell.org/2018-02-20-data-reports-finland/" />
+  
+
+  
+  <meta property="og:image" content="s19rm.ryancordell.org/img/oe.png" />
+  
+  
+
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@ryancordell" />
+  <meta name="twitter:creator" content="@ryancordell" />
+
+  
+  <meta name="twitter:title" content="Digitized Newspapers at the National Library of Finland, Suomen kansalliskirjaston digitoidut sanomalehdet" />
+  
+
+  
+  <meta name="twitter:description" content="Report also available in Suomi The digital collection of the National Library of Finland includes 12.8 million pages of newspapers and journals. Only the newspapers published before 1930 are freely available online at the website of the Library. The collection includes all published newspapers and journals, from the first newspaper...">
+  
+
+  
+  <meta name="twitter:image" content="s19rm.ryancordell.org/img/oe.png" />
+  
+
+</head>
+
+
+  <body>
+
+    
+  
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+        <a class="navbar-brand" href="s19rm.ryancordell.org">Reading Machines — Technology and the Book</a>
+      
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/team">Team</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/news">News</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="https://osf.io/wa94s/">Data</a>
+
+          </li>
+        
+        
+        
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">Project Links</a>
+            <div class="navlinks-children">
+              
+                
+                  
+            
+
+
+
+
+
+<a href="https://diggingintodata.org/">Digging Into Data</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+
+<a href="/associated-projects">Associated Projects</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+
+<a href="https://twitter.com/oceanicex">Twitter</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+
+<a href="https://github.com/OceanicExchanges">Github</a>
+
+                
+              
+            </div>
+          </li>
+        
+        
+      </ul>
+    </div>
+
+	
+	<div class="avatar-container">
+	  <div class="avatar-img-border">
+	    <a href="s19rm.ryancordell.org ">
+	      <img class="avatar-img" src="/img/oe.png" />
+		</a>
+	  </div>
+	</div>
+	
+
+  </div>
+</nav>
+
+
+    <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="post-heading">
+          <h1>Digitized Newspapers at the National Library of Finland, Suomen kansalliskirjaston digitoidut sanomalehdet</h1>
+		  
+		  
+		  
+		  <span class="post-meta">Posted on February 20, 2018</span>
+		  
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+<!-- Look the author details up from the site config. -->
+<!--  -->
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+<!-- Output author details if some exist. -->
+	
+	<p><strong>Written by:</strong>
+		
+  		
+  		<a href="https://tuhat.helsinki.fi/portal/en/persons/mila-oiva(44993f00-6e62-4b21-90ff-3fdaf8e88be0).html" target="_blank"><strong>Mila Oiva</a></strong>, 
+		
+  		
+  		<a href="https://hannusalmi.wordpress.com" target="_blank"><strong>Hannu Salmi</a></strong>, 
+		
+  		
+  		<a href="https://askonivala.github.io" target="_blank"><strong>Asko Nivala</a></strong>
+		
+	</p>
+
+    
+      <article role="main" class="blog-post">
+        <p><em>Report also available in <a href="#suomi">Suomi</a></em></p>
+
+<p>The digital collection of the National Library of Finland includes 12.8 million pages of newspapers and journals. Only the newspapers published before 1930 are freely available online at the website of the Library. The collection includes all published newspapers and journals, from the first newspaper <em>Tidningar Utgifne af et Sällskap i Åbo</em>, founded in 1771, until the end of the year 1929. The extent of the collection is as follows (as of 19 February 2018):</p>
+
+<p>Newspapers:</p>
+
+<ul>
+  <li>Total digitized pages			6,259,133</li>
+  <li>Pages in open use				4,031,018  (64%) (-1929)</li>
+  <li>Pages in restricted use		2,228,115  (36%) (1930-)</li>
+</ul>
+
+<p>Journals:</p>
+
+<ul>
+  <li>Total digitized pages 		6,507,310</li>
+  <li>Pages in open use				3,360,240  (51%) (-1929)</li>
+  <li>Pages in restricted use  		3,147,070  (49%) (1930-)</li>
+</ul>
+
+<p>The open collection, up to 1929, can be browsed at the website of the <a href="https://digi.kansalliskirjasto.fi/">National Library of Finland</a>. The data packages available for the Oceanic Exchanges project have been presented below. The Finnish team has already worked with the newspapers of the years 1771-1910 in the project <em>Computational History and the Transformation of Public Discourse in Finland, 1640-1910</em>. The following estimation of data quality is based on that work.</p>
+
+<h2 id="data-quality">Data Quality</h2>
+
+<p>The overall OCR quality of the early collection is approximately 69-75%. Most of the newspapers in the collection were printed using Fraktur typeset, while Antiqua printing style remained in minority. This causes problems for the OCR quality. As a general rule, the older newspapers are more difficult to OCR, and the newspapers closer to the late 19th and early 20th centuries provide less OCR errors. Around 25-30% of the collections needs further processing in order to improve the overall quality of the data.</p>
+
+<p>The volume of newspaper publishing increased towards the turn of the century in Finland: in the 1771-1910 dataset, 82.7% of the data is from the 1890-1910, and 92.3% is from the last four decades, 1870-1910. The majority of the newspapers consists of pages in Finnish and Swedish language, but there are also pages in Russian and German. Different languages dominated the Finnish publication sphere in different periods: more than 50% of the publications before the late 1880s were in Swedish, after which the share of Finnish language publications increased to over 75% in 1910. The Russian language publications emerged after the year 1900, while there were German language publications already during the 1820s and 1830s (<em>Wiburgs Wochenblatt</em> covers years 1823-1832). Out of the total number of newspaper pages in the collection between 1771-1910 1,063,648 are in Finnish, 892,191 in Swedish, 8997 in Russian, and 2551 in German.</p>
+
+<p>The journal data is more varied in terms of languages. Out of the 1,147,791 pages published between 1771-1910, 605,762 are in Finnish, 479,462 in Swedish, and the rest are either multilingual or in other languages.</p>
+
+<h2 id="data-availability--legal-restrictions-concerning-the-data">Data Availability &amp; Legal Restrictions Concerning the Data</h2>
+
+<p>The data collected for Oceanic Exchanges include:</p>
+
+<ol>
+  <li><em>The Newspaper and Periodical OCR Corpus of the National Library of Finland (1771-1874)</em> was released in 2011. The data package is in the METS/ALTO format and downloadable via the <a href="http://urn.fi/urn:nbn:fi:lb-2015051201">Language Bank of Finland</a>. It has been released under the Creative Commons license (CC BY 4.0).</li>
+  <li>The data package 1771-1910 has been provided by the National Library of Finland to the project <em>Computational History and the Transformation of Public Discourse in Finland, 1640-1910 (COMHIS)</em>, and it is already at the disposal of the Finnish team of the Oceanic Exchanges project. This data package is not openly available, but there are no legal restrictions concerning the usage of the data for the purpose of research. The <a href="http://comhis.fi/clusters">COMHIS project</a> has studied text reuse in Finnish newspapers and journals between 1771-1910.</li>
+  <li>The <em>Newspaper and Periodical OCR Corpus of the National Library of Finland (1875-1920)</em> was released in November 2017. The data package is downloadable via the <a href="http://urn.fi/urn:nbn:fi:lb-201801191">Language Bank of Finland</a>. The data dump includes all those newspapers and journals that had been digitized by the end of the year 2013. This includes all published newspapers 1875-1920. Some journals, published in the 1910s and digitized after 2013 are still missing but they can be accessed at the searchable online collection which is constantly updated. More details on the license (CLARIN ACA end-user license +NC 1.0) can be found at <a href="https://www.kielipankki.fi/lic/digilib-1920-dl/">https://www.kielipankki.fi/lic/digilib-1920-dl/</a>.</li>
+</ol>
+
+<h2 id="metadata-structure">Metadata Structure</h2>
+
+<p>The National Library of Finland has been digitizing the collection with an average speed of about one million pages a year. Almost every year the back-end system has been improved, and new versions containing new features have been introduced.</p>
+
+<p>The main database of the National Library contains metadata, page data, and file data containing the archive directory information. The online system of the database offers page images of the content, and access to the content of the pages in ALTO XML (Analyzed Layout and Text Object) format.</p>
+
+<p>In the data packages, pages are located in two separate directories: one based on ISSN and the other on the publication year. Below the publication year in the data structure is the language of the publication, below which are the actual ALTO XML files. They are named descriptively: ISSN_YEAR_DATE_ISSUE_PAGE.</p>
+
+<h3 id="metadata-in-the-data-package-1771-1874">Metadata in the data package 1771-1874</h3>
+<p>The data package 1771-1874 includes ALTO files and metadata in METS format. As an example:</p>
+
+<div class="language-xml highlighter-rouge"><pre class="highlight"><code><span class="nt">&lt;dmdSec</span> <span class="na">ID=</span><span class="s">"MODSMD_CHAP2"</span><span class="nt">&gt;</span>
+	<span class="nt">&lt;mdWrap</span> <span class="na">MIMETYPE=</span><span class="s">"text/xml"</span> <span class="na">MDTYPE=</span><span class="s">"MODS"</span> <span class="na">LABEL=</span><span class="s">"Bibliographic meta-data of chapter 0"</span><span class="nt">&gt;</span>
+		<span class="nt">&lt;xmlData&gt;</span>
+			<span class="nt">&lt;MODS:mods&gt;</span>
+				<span class="nt">&lt;MODS:titleInfo</span> <span class="na">ID=</span><span class="s">"MODSMD_CHAP2_TI2"</span> <span class="na">xml:lang=</span><span class="s">"fi"</span><span class="nt">&gt;</span>
+					<span class="nt">&lt;MODS:title&gt;</span>Minkätähden Hüneburg ei antautunut.<span class="nt">&lt;/MODS:title&gt;</span>
+				<span class="nt">&lt;/MODS:titleInfo&gt;</span>
+				<span class="nt">&lt;MODS:name</span> <span class="na">ID=</span><span class="s">"MODSMD_CHAP2_N2"</span> <span class="na">type=</span><span class="s">"personal"</span><span class="nt">&gt;</span>
+					<span class="nt">&lt;MODS:namePart</span> <span class="na">type=</span><span class="s">"given"</span><span class="nt">&gt;</span>A.<span class="nt">&lt;/MODS:namePart&gt;</span>
+					<span class="nt">&lt;MODS:namePart</span> <span class="na">type=</span><span class="s">"family"</span><span class="nt">&gt;</span>G<span class="nt">&lt;/MODS:namePart&gt;</span>
+					<span class="nt">&lt;MODS:role&gt;</span>
+						<span class="nt">&lt;MODS:roleTerm&gt;</span>aut<span class="nt">&lt;/MODS:roleTerm&gt;</span>
+					<span class="nt">&lt;/MODS:role&gt;</span>
+				<span class="nt">&lt;/MODS:name&gt;</span>
+				<span class="nt">&lt;MODS:language&gt;</span>
+					<span class="nt">&lt;MODS:languageTerm</span> <span class="na">type=</span><span class="s">"code"</span> <span class="na">authority=</span><span class="s">"rfc3066"</span><span class="nt">&gt;</span>fi<span class="nt">&lt;/MODS:languageTerm&gt;</span>
+				<span class="nt">&lt;/MODS:language&gt;</span>
+			<span class="nt">&lt;/MODS:mods&gt;</span>
+		<span class="nt">&lt;/xmlData&gt;</span>
+	<span class="nt">&lt;/mdWrap&gt;</span>
+<span class="nt">&lt;/dmdSec&gt;</span>
+</code></pre>
+</div>
+
+<h3 id="metadata-in-the-data-package-1771-1910">Metadata in the data package 1771-1910</h3>
+<p>The data package for 1771-1910 includes ALTO files but no METS. Metadata has been included in the beginning of the files in XML format. Example:</p>
+
+<div class="language-xml highlighter-rouge"><pre class="highlight"><code><span class="nt">&lt;metadata&gt;</span>
+	<span class="nt">&lt;title&gt;</span>Kirkollinen kuukauslehti : uskonnollista lukemista perheille<span class="nt">&lt;/title&gt;</span>
+	<span class="nt">&lt;identifier</span> <span class="na">type=</span><span class="s">"nbn"</span><span class="nt">&gt;</span>fk00873<span class="nt">&lt;/identifier&gt;</span>
+	<span class="nt">&lt;published</span> <span class="na">format=</span><span class="s">"edtf"</span><span class="nt">&gt;</span>1881-11<span class="nt">&lt;/published&gt;</span>
+	<span class="nt">&lt;issue&gt;</span>11<span class="nt">&lt;/issue&gt;</span>
+		<span class="nt">&lt;pageOrder&gt;</span>21<span class="nt">&lt;/pageOrder&gt;</span>
+		<span class="nt">&lt;pageLabel&gt;&lt;/pageLabel&gt;</span>
+	<span class="nt">&lt;language&gt;</span>fin<span class="nt">&lt;/language&gt;</span>
+	<span class="nt">&lt;contentType&gt;</span>serial<span class="nt">&lt;/contentType&gt;</span>
+	<span class="nt">&lt;originalPublisher/&gt;</span>
+	<span class="nt">&lt;latestPublisher&gt;</span>[s.n.]<span class="nt">&lt;/latestPublisher&gt;</span>
+		<span class="nt">&lt;publishingPlace</span> <span class="na">country=</span><span class="s">"fi"</span><span class="nt">&gt;&lt;/publishingPlace&gt;</span>
+	<span class="nt">&lt;copyright&gt;</span>Copyrights expired<span class="nt">&lt;/copyright&gt;</span>
+	<span class="nt">&lt;license&gt;</span>ESIVERSIO - EI EDELLEENJAKELUUN<span class="nt">&lt;/license&gt;</span>
+		<span class="nt">&lt;pageIdentifier&gt;</span>7687234<span class="nt">&lt;/pageIdentifier&gt;</span>
+		<span class="nt">&lt;bindingIdentifier&gt;</span>984738<span class="nt">&lt;/bindingIdentifier&gt;</span>
+	<span class="nt">&lt;imageURL&gt;</span>http://digi.kansalliskirjasto.fi/aikakausi/binding/984738/image/21<span class="nt">&lt;/imageURL&gt;</span>
+	<span class="nt">&lt;pdfURL&gt;</span>http://digi.kansalliskirjasto.fi/aikakausi/binding/984738/pdf<span class="nt">&lt;/pdfURL&gt;</span>
+	<span class="nt">&lt;browseURL&gt;</span>http://digi.kansalliskirjasto.fi/aikakausi/binding/984738/#?page=21<span class="nt">&lt;/browseURL&gt;</span>
+	<span class="nt">&lt;pingURL/&gt;</span>
+	<span class="nt">&lt;ocrVersion/&gt;</span>
+	<span class="nt">&lt;lastModified&gt;</span>2012-04-12T00:04:00<span class="nt">&lt;/lastModified&gt;</span>
+<span class="nt">&lt;/metadata&gt;</span>
+</code></pre>
+</div>
+
+<h3 id="metadata-in-the-data-package-1875-1920">Metadata in the data package 1875-1920</h3>
+<p>The metadata of the collection for years 1875-1920 is in ALTO/METS format. For instance:</p>
+
+<div class="language-xml highlighter-rouge"><pre class="highlight"><code><span class="nt">&lt;mets</span> <span class="na">xmlns:xsi=</span><span class="s">"http://www.w3.org/2001/XMLSchema-instance"</span> <span class="na">xmlns=</span><span class="s">"http://www.loc.gov/METS/"</span> <span class="na">xsi:schemaLocation=</span><span class="s">"http://www.loc.gov/METS/ //Themis/docworks/docWORKS/schema/mets-metae.xsd"</span> <span class="na">xmlns:MODS=</span><span class="s">"http://www.loc.gov/mods/v3"</span> <span class="na">xmlns:mix=</span><span class="s">"http://www.loc.gov/mix/"</span> <span class="na">xmlns:xlink=</span><span class="s">"http://www.w3.org/TR/xlink"</span> <span class="na">TYPE=</span><span class="s">"METAe_Serial"</span> <span class="na">LABEL=</span><span class="s">"Finsk Tidskrift no. 1-2 01.1911"</span><span class="nt">&gt;</span>
+	<span class="nt">&lt;metsHdr</span> <span class="na">CREATEDATE=</span><span class="s">"2007-03-27T10:35:59"</span> <span class="na">LASTMODDATE=</span><span class="s">"2007-03-27T10:35:59"</span><span class="nt">&gt;</span>
+		<span class="nt">&lt;agent</span> <span class="na">ROLE=</span><span class="s">"CREATOR"</span> <span class="na">TYPE=</span><span class="s">"OTHER"</span> <span class="na">OTHERTYPE=</span><span class="s">"SOFTWARE"</span><span class="nt">&gt;</span>
+			<span class="nt">&lt;name&gt;</span>CCS docWORKS/METAe Version 6.0-8<span class="nt">&lt;/name&gt;</span>
+		<span class="nt">&lt;/agent&gt;</span>
+	<span class="nt">&lt;/metsHdr&gt;</span>
+<span class="nt">&lt;dmdSec</span> <span class="na">ID=</span><span class="s">"MODSMD_PRINT"</span><span class="nt">&gt;</span>
+	<span class="nt">&lt;mdWrap</span> <span class="na">MIMETYPE=</span><span class="s">"text/xml"</span> <span class="na">MDTYPE=</span><span class="s">"MODS"</span> <span class="na">LABEL=</span><span class="s">"Bibliographic meta-data of the printed version"</span><span class="nt">&gt;</span>
+		<span class="nt">&lt;xmlData&gt;</span>
+			<span class="nt">&lt;MODS:mods&gt;</span>
+				<span class="nt">&lt;MODS:titleInfo</span> <span class="na">ID=</span><span class="s">"MODSMD_PRINT_TI1"</span> <span class="na">xml:lang=</span><span class="s">"sv"</span><span class="nt">&gt;</span>
+					<span class="nt">&lt;MODS:title&gt;</span>Finsk Tidskrift<span class="nt">&lt;/MODS:title&gt;</span>
+					<span class="nt">&lt;MODS:partName&gt;</span>70-71<span class="nt">&lt;/MODS:partName&gt;</span>
+				<span class="nt">&lt;/MODS:titleInfo&gt;</span>
+				<span class="nt">&lt;MODS:language&gt;</span>
+					<span class="nt">&lt;MODS:languageTerm</span> <span class="na">type=</span><span class="s">"code"</span> <span class="na">authority=</span><span class="s">"rfc3066"</span><span class="nt">&gt;</span>sv<span class="nt">&lt;/MODS:languageTerm&gt;</span>
+				<span class="nt">&lt;/MODS:language&gt;</span>
+				<span class="nt">&lt;MODS:originInfo&gt;</span>
+					<span class="nt">&lt;MODS:dateIssued</span> <span class="na">encoding=</span><span class="s">"w3cdtf"</span> <span class="na">keyDate=</span><span class="s">"yes"</span> <span class="na">qualifier=</span><span class="s">"approximate"</span><span class="nt">&gt;</span>1911<span class="nt">&lt;/MODS:dateIssued&gt;</span>
+				<span class="nt">&lt;/MODS:originInfo&gt;</span>
+				<span class="nt">&lt;MODS:identifier</span> <span class="na">type=</span><span class="s">"ISSN"</span><span class="nt">&gt;</span>0015-248X<span class="nt">&lt;/MODS:identifier&gt;</span>
+			<span class="nt">&lt;/MODS:mods&gt;</span>
+		<span class="nt">&lt;/xmlData&gt;</span>
+	<span class="nt">&lt;/mdWrap&gt;</span>
+<span class="nt">&lt;/dmdSec&gt;</span>
+</code></pre>
+</div>
+
+<h2 id="collection-history">Collection History</h2>
+
+<p>In Finland, the digitization of cultural heritage started in the mid 1990s. From the perspective of newspaper collections, an essential turning point was the launching of the Nordic project TIDEN in 1998. It was a joint project of four institutions: the Royal Library of Sweden, The National Library of Norway, the University Library of Århus (Denmark), and the Helsinki University Library which was the coordinator of the project. The Helsinki University Library had established the Center for Microfilming and Conservation already in 1990, in the small town of Mikkeli in Eastern Finland, with the idea of creating a comprehensive microfilm collection of Finnish newspapers and journals. Soon, it became obvious that digitization would be more fruitful for developing research infrastructures, and the TIDEN project gave the possibility to concentrate on exploring the problems of digitization but also in producing actual digital copies of Finnish newspapers, mostly on the basis of previously produced microfilms. Today, the Mikkeli center is known as the Centre for Preservation and Digitisation, which is part of the National Library of Finland.</p>
+
+<p>In 2001, the National Library of Finland finally opened its <a href="http://digi.lib.helsinki.fi/">online collection of digitized newspapers</a>. It was announced that all Finnish newspapers from 1771 to 1860 will be digitized and made openly available in the net. It was estimated that, in the end, the collection would cover 44 different titles and 90,000 pages. At the time of the launching of the website in 2001, only one third, in sum 36,000 pages was available. This was the start, and now, after 17 years, the open collection includes all newspapers and journals from 1771 to 1929.</p>
+
+<p>The TIDEN project was important in defining best practices for future digitization projects. Its main ideas were published together with the recommendations of The International Federation of Library Associations and Institutions (IFLA) in the publication <em>Guidance on the Best Practices for Microfilming of Newspapers in Preparation for Possible Future Digitisation</em> (2003). In Finland, the digital collection is based on microfilms, which means that both the quality of the microfilm and the quality of the original newspaper are essential. In the present collection, the differences in quality have obviously had an impact on the accuracy of optical character recognition which varies from decade to decade.</p>
+
+<h1 id="a-namesuomiasuomen-kansalliskirjaston-digitoidut-sanomalehdet"><a name="suomi"></a>Suomen kansalliskirjaston digitoidut sanomalehdet</h1>
+
+<p>Suomen kansalliskirjaston digitaalinen kokoelma sisältää 12,8 miljoonaa sivua sanoma- ja aikakauslehtiä. Tällä hetkellä lehtiä voi vuoden 1929 numeroihin asti lukea avoimesti kirjaston sivustolla. Kokoelma kattaa kaikki suomalaiset sanoma- ja aikakauslehdet, ensimmäisestä, vuonna 1771 perustetusta sanomalehdestä <em>Tidningar Utgifne af et Sällskap i Åbo</em> lähtien vuoden 1929 loppuun. Kokoelmaa voi kuvata seuraavin luvuin (tilanne 19.2.2018):</p>
+
+<p>Sanomalehtiä:</p>
+
+<ul>
+  <li>Digitoituja sivuja yhteensä  	6 259 133</li>
+  <li>Sivuja vapaassa käytössä  		4 031 018  (64%) (-1929)</li>
+  <li>Sivuja rajatussa käytössä  		2 228 115  (36%) (1930-)</li>
+</ul>
+
+<p>Aikakauslehtiä:</p>
+
+<ul>
+  <li>Digitoitu sivuja yhteensä  		6 507 310</li>
+  <li>Sivuja vapaassa käytössä  		3 360 240  (51%) (-1929)</li>
+  <li>Sivuja rajatussa käytössä  		3 147 070  (49%) (1930-)</li>
+</ul>
+
+<p>Koko vapaassa käytössä oleva aineisto on selattavissa Kansalliskirjaston hakuportaalin kautta <a href="https://digi.kansalliskirjasto.fi/">https://digi.kansalliskirjasto.fi/</a>. <em>Oceanic Exchanges</em> -hankkeen käytössä olevat datapaketit on eritelty alempana. Projektin suomalaisilla jäsenillä on aiempaa kokemusta vuosien 1771-1910 aineiston tutkimuksesta hankkeessa <em>Computational History and the Transformation of Public Discourse in Finland, 1640-1910</em> (ks. julkaisuluettelo). Seuraava aineiston laatua käsittelevä osuus perustuu tähän työhön.</p>
+
+<h2 id="aineiston-laatu">Aineiston laatu</h2>
+
+<p>Vuosien 1771-1910 aineistossa optisen tekstintunnistuksen (OCR) tarkkuus on keskimäärin 69-75%. Suurin osa sanomalehdistä on painettu fraktuurakirjasimella, joka on vaikeammin OCR-ohjelmien tunnistettavissa. Koska erityisesti vanhemmissa lehdissä käytettiin fraktuurakirjasinta, voidaan yleistää, että mitä vanhempi sanomalehti, sen vaikeampi tekstiä on tunnistaa koneellisesti. Aineisto sisältää keskimäärin vähemmän OCR-virheitä 1800-luvun lopussa ja 1900-luvun alussa kuin 1800-luvun alussa. Noin 25-30% kokoelman aineistosta vaatisi lisäkäsittelyä aineiston kokonaislaadun parantamiseksi.</p>
+
+<p>Sanomalehtiaineiston määrä painottuu kokoelman loppupäähän, sillä sanomalehtiä oli verrattain vähän 1700-luvun lopussa ja 1800-luvun alussa, mutta niiden määrä kasvoi nopeasti 1800-luvun lopussa. Aineistosta 82,7% on vuosilta 1890-1910 ja peräti 92,3% neljältä viimeiseltä vuosikymmeneltä 1870-1910. Valtaosa aineistosta on suomen ja ruotsin kielellä, mutta materiaalia on myös saksaksi ja venäjäksi. Eri kielet hallitsevat aineistossa eri aikakausia: yli 50% julkaisuista ennen 1880- ja 1890-luvun taitetta olivat ruotsiksi, minkä jälkeen suomenkielisten lehtien osuus kasvoi. Vuonna 1910 suomeksi julkaistiin yli 75% sanomalehdistä. Venäjänkielisiä lehtiä julkaistiin vuoden 1900 jälkeen, kun taas saksankielisiä lehtiä ilmestyi 1820- ja 1830-luvulla (<em>Wiburgs Wochenblatt</em> kattaa vuodet 1823-1832). Jos tarkastellaan vuosien 1771-1910 sanomalehtien kokonaismäärää, suomeksi julkaistiin 1 063 648 sivua, ruotsiksi 892 191 sivua, venäjäksi 8 997 sivua ja saksaksi 2 551 sivua.</p>
+
+<p>Aikakauslehtien kohdalla kielivalikoima on vaihtelevampi. Vuosilta 1771-1910 sivuja on lähes 1 147 791, joista 605 762 on suomeksi, 479 462 ruotsiksi ja muu aineisto on joko monikielistä tai jollakin muulla kielellä.</p>
+
+<h2 id="datan-saatavuus-ja-rajoitukset">Datan saatavuus ja rajoitukset</h2>
+
+<p>Digitoitujen sanoma- ja aikakauslehtien kokoelmaa voi avoimesti selata, ja siihen voi tehdä hakuja Kansalliskirjaston kotisivulla osoitteessa <a href="https://digi.kansalliskirjasto.fi/">https://digi.kansalliskirjasto.fi/</a>.</p>
+
+<p>Seuraavat aineistopaketit ovat tutkimuskäyttöä varten:</p>
+
+<ol>
+  <li><em>The Newspaper and Periodical OCR Corpus of the National Library of Finland (1771-1874)</em> julkaistiin vuonna 2011. Datadump on ladattavissa METS/ALTO-muodossa Kielipankin kautta osoitteesta <a href="http://urn.fi/urn:nbn:fi:lb-2015051201">http://urn.fi/urn:nbn:fi:lb-2015051201</a>. Aineiston käyttöoikeudet on määritelty Creative Commons (CC BY 4.0).</li>
+  <li>Vuosien 1771-1910 datadump on saatu Kansalliskirjastosta <em>Computational History and the Transformation of Public Discourse in Finland, 1640-1910</em> (COMHIS) -projektin käyttöön, ja se on myös <em>Oceanic Exchanges</em> -hankkeen käytössä. Sen käyttöoikeudet on määritelty samoin kuin vuosien 1771-1874 aineiston. COMHIS-projektissa tutkimme tekstin uudelleenkäyttöä suomalaisessa sanoma- ja aikakauslehdistössä vuosina 1771-1910. Tämän projektin tulokset ovat selattavissa osoitteessa <a href="http://comhis.fi/clusters">http://comhis.fi/clusters</a>.</li>
+  <li><em>The Newspaper and Periodical OCR Corpus of the National Library of Finland (1875-1920)</em> julkaistiin marraskuussa 2017. Datadump on ladattavissa Kielipankin kautta osoitteesta <a href="http://urn.fi/urn:nbn:fi:lb-201801191">http://urn.fi/urn:nbn:fi:lb-201801191</a>. Datadump sisältää kaikki ne sanoma- ja aikakauslehdet, jotka oli digitoituna vuoden 2013 loppuun mennessä. Sanomalehtien osalta kokoelma on kattava, mutta aikakauslehtiä on digitoitu lisää vuoden 2013 jälkeen. Tämä uusin aineisto löytyy Kansalliskirjaston digikokoelmasta, mutta ei vielä datadumpista. Aineiston käyttöoikeuksista (CLARIN ACA end-user license +NC 1.0) löytyy lisätietoja osoitteesta <a href="https://www.kielipankki.fi/lic/digilib-1920-dl/">https://www.kielipankki.fi/lic/digilib-1920-dl/</a>.</li>
+</ol>
+
+<h2 id="metadatan-rakenne">Metadatan rakenne</h2>
+
+<p>Kansalliskirjasto on digitoinut sanoma- ja aikakauslehtien kokoelmaa noin miljoonan sivun vuosivauhtia. Vuosittain aineisto on parantunut, ja uusia versioita ja uusia ominaisuuksia on tarjottu tutkimuskäyttöön.</p>
+
+<p>Kansalliskirjaston aineisto sisältää metadatan, sivudatan ja tiedostodatan, joka kertoo arkiston hakemistorakenteen. Historiallisen sanomalehtiarkiston online-palvelu tarjoaa sivunäkymän kuvana sekä pääsyn sivujen sisältötietoihin ALTO XML-muodossa (Analyzed Layout and Text Object).</p>
+
+<p>Kaikki sivut ovat kahdessa erillisessä hakemistossa, joista toinen pohjautuu ISSN-numeroon, toinen julkaisuvuoteen. Julkaisuvuoden alta löytyy julkaisun kieli, minkä alla ovat varsinaiset ALTO XML -tiedostot. Ne on nimetty seuraavasti: ISSN_YEAR_DATE_ISSUE_PAGE.</p>
+
+<h3 id="metadata-1771-1874">Metadata 1771-1874</h3>
+<p>Kokoelman 1771-1874 metatiedot sisältävät tietoa muun muassa sanomalehtiartikkeleista ja muista sisäisistä segmenteistä. Datadump sisältää ALTO-tiedostot ja metatiedot METS-muodossa. Tässä esimerkki metadatasta:</p>
+
+<div class="language-xml highlighter-rouge"><pre class="highlight"><code><span class="nt">&lt;dmdSec</span> <span class="na">ID=</span><span class="s">"MODSMD_CHAP2"</span><span class="nt">&gt;</span>
+	<span class="nt">&lt;mdWrap</span> <span class="na">MIMETYPE=</span><span class="s">"text/xml"</span> <span class="na">MDTYPE=</span><span class="s">"MODS"</span> <span class="na">LABEL=</span><span class="s">"Bibliographic meta-data of chapter 0"</span><span class="nt">&gt;</span>
+		<span class="nt">&lt;xmlData&gt;</span>
+			<span class="nt">&lt;MODS:mods&gt;</span>
+				<span class="nt">&lt;MODS:titleInfo</span> <span class="na">ID=</span><span class="s">"MODSMD_CHAP2_TI2"</span> <span class="na">xml:lang=</span><span class="s">"fi"</span><span class="nt">&gt;</span>
+					<span class="nt">&lt;MODS:title&gt;</span>Minkätähden Hüneburg ei antautunut.<span class="nt">&lt;/MODS:title&gt;</span>
+				<span class="nt">&lt;/MODS:titleInfo&gt;</span>
+				<span class="nt">&lt;MODS:name</span> <span class="na">ID=</span><span class="s">"MODSMD_CHAP2_N2"</span> <span class="na">type=</span><span class="s">"personal"</span><span class="nt">&gt;</span>
+					<span class="nt">&lt;MODS:namePart</span> <span class="na">type=</span><span class="s">"given"</span><span class="nt">&gt;</span>A.<span class="nt">&lt;/MODS:namePart&gt;</span>
+					<span class="nt">&lt;MODS:namePart</span> <span class="na">type=</span><span class="s">"family"</span><span class="nt">&gt;</span>G<span class="nt">&lt;/MODS:namePart&gt;</span>
+					<span class="nt">&lt;MODS:role&gt;</span>
+						<span class="nt">&lt;MODS:roleTerm&gt;</span>aut<span class="nt">&lt;/MODS:roleTerm&gt;</span>
+					<span class="nt">&lt;/MODS:role&gt;</span>
+				<span class="nt">&lt;/MODS:name&gt;</span>
+				<span class="nt">&lt;MODS:language&gt;</span>
+					<span class="nt">&lt;MODS:languageTerm</span> <span class="na">type=</span><span class="s">"code"</span> <span class="na">authority=</span><span class="s">"rfc3066"</span><span class="nt">&gt;</span>fi<span class="nt">&lt;/MODS:languageTerm&gt;</span>
+				<span class="nt">&lt;/MODS:language&gt;</span>
+			<span class="nt">&lt;/MODS:mods&gt;</span>
+		<span class="nt">&lt;/xmlData&gt;</span>
+	<span class="nt">&lt;/mdWrap&gt;</span>
+<span class="nt">&lt;/dmdSec&gt;</span>
+</code></pre>
+</div>
+
+<h3 id="metadata-1771-1910">Metadata 1771-1910</h3>
+
+<p>Vuosien 1771-1910 datadump sisältää ALTO-tiedostot. Metatiedot löytyvät tiedostojen alusta XML-muodossa. Tässä esimerkki:</p>
+
+<div class="language-xml highlighter-rouge"><pre class="highlight"><code><span class="nt">&lt;metadata&gt;</span>
+	<span class="nt">&lt;title&gt;</span>Kirkollinen kuukauslehti : uskonnollista lukemista perheille<span class="nt">&lt;/title&gt;</span>
+	<span class="nt">&lt;identifier</span> <span class="na">type=</span><span class="s">"nbn"</span><span class="nt">&gt;</span>fk00873<span class="nt">&lt;/identifier&gt;</span>
+	<span class="nt">&lt;published</span> <span class="na">format=</span><span class="s">"edtf"</span><span class="nt">&gt;</span>1881-11<span class="nt">&lt;/published&gt;</span>
+	<span class="nt">&lt;issue&gt;</span>11<span class="nt">&lt;/issue&gt;</span>
+		<span class="nt">&lt;pageOrder&gt;</span>21<span class="nt">&lt;/pageOrder&gt;</span>
+		<span class="nt">&lt;pageLabel&gt;&lt;/pageLabel&gt;</span>
+	<span class="nt">&lt;language&gt;</span>fin<span class="nt">&lt;/language&gt;</span>
+	<span class="nt">&lt;contentType&gt;</span>serial<span class="nt">&lt;/contentType&gt;</span>
+	<span class="nt">&lt;originalPublisher/&gt;</span>
+	<span class="nt">&lt;latestPublisher&gt;</span>[s.n.]<span class="nt">&lt;/latestPublisher&gt;</span>
+		<span class="nt">&lt;publishingPlace</span> <span class="na">country=</span><span class="s">"fi"</span><span class="nt">&gt;&lt;/publishingPlace&gt;</span>
+	<span class="nt">&lt;copyright&gt;</span>Copyrights expired<span class="nt">&lt;/copyright&gt;</span>
+	<span class="nt">&lt;license&gt;</span>ESIVERSIO - EI EDELLEENJAKELUUN<span class="nt">&lt;/license&gt;</span>
+		<span class="nt">&lt;pageIdentifier&gt;</span>7687234<span class="nt">&lt;/pageIdentifier&gt;</span>
+		<span class="nt">&lt;bindingIdentifier&gt;</span>984738<span class="nt">&lt;/bindingIdentifier&gt;</span>
+	<span class="nt">&lt;imageURL&gt;</span>http://digi.kansalliskirjasto.fi/aikakausi/binding/984738/image/21<span class="nt">&lt;/imageURL&gt;</span>
+	<span class="nt">&lt;pdfURL&gt;</span>http://digi.kansalliskirjasto.fi/aikakausi/binding/984738/pdf<span class="nt">&lt;/pdfURL&gt;</span>
+	<span class="nt">&lt;browseURL&gt;</span>http://digi.kansalliskirjasto.fi/aikakausi/binding/984738/#?page=21<span class="nt">&lt;/browseURL&gt;</span>
+	<span class="nt">&lt;pingURL/&gt;</span>
+	<span class="nt">&lt;ocrVersion/&gt;</span>
+	<span class="nt">&lt;lastModified&gt;</span>2012-04-12T00:04:00<span class="nt">&lt;/lastModified&gt;</span>
+<span class="nt">&lt;/metadata&gt;</span>
+</code></pre>
+</div>
+
+<h3 id="metadata-1875-1920">Metadata 1875-1920</h3>
+
+<p>Kokoelman 1875-1920 metatiedot noudattavat ALTO/METS-standardia. Tässä esimerkki metadatasta:</p>
+
+<div class="language-xml highlighter-rouge"><pre class="highlight"><code><span class="nt">&lt;mets</span> <span class="na">xmlns:xsi=</span><span class="s">"http://www.w3.org/2001/XMLSchema-instance"</span> <span class="na">xmlns=</span><span class="s">"http://www.loc.gov/METS/"</span> <span class="na">xsi:schemaLocation=</span><span class="s">"http://www.loc.gov/METS/ //Themis/docworks/docWORKS/schema/mets-metae.xsd"</span> <span class="na">xmlns:MODS=</span><span class="s">"http://www.loc.gov/mods/v3"</span> <span class="na">xmlns:mix=</span><span class="s">"http://www.loc.gov/mix/"</span> <span class="na">xmlns:xlink=</span><span class="s">"http://www.w3.org/TR/xlink"</span> <span class="na">TYPE=</span><span class="s">"METAe_Serial"</span> <span class="na">LABEL=</span><span class="s">"Finsk Tidskrift no. 1-2 01.1911"</span><span class="nt">&gt;</span>
+	<span class="nt">&lt;metsHdr</span> <span class="na">CREATEDATE=</span><span class="s">"2007-03-27T10:35:59"</span> <span class="na">LASTMODDATE=</span><span class="s">"2007-03-27T10:35:59"</span><span class="nt">&gt;</span>
+		<span class="nt">&lt;agent</span> <span class="na">ROLE=</span><span class="s">"CREATOR"</span> <span class="na">TYPE=</span><span class="s">"OTHER"</span> <span class="na">OTHERTYPE=</span><span class="s">"SOFTWARE"</span><span class="nt">&gt;</span>
+			<span class="nt">&lt;name&gt;</span>CCS docWORKS/METAe Version 6.0-8<span class="nt">&lt;/name&gt;</span>
+		<span class="nt">&lt;/agent&gt;</span>
+	<span class="nt">&lt;/metsHdr&gt;</span>
+<span class="nt">&lt;dmdSec</span> <span class="na">ID=</span><span class="s">"MODSMD_PRINT"</span><span class="nt">&gt;</span>
+	<span class="nt">&lt;mdWrap</span> <span class="na">MIMETYPE=</span><span class="s">"text/xml"</span> <span class="na">MDTYPE=</span><span class="s">"MODS"</span> <span class="na">LABEL=</span><span class="s">"Bibliographic meta-data of the printed version"</span><span class="nt">&gt;</span>
+		<span class="nt">&lt;xmlData&gt;</span>
+			<span class="nt">&lt;MODS:mods&gt;</span>
+				<span class="nt">&lt;MODS:titleInfo</span> <span class="na">ID=</span><span class="s">"MODSMD_PRINT_TI1"</span> <span class="na">xml:lang=</span><span class="s">"sv"</span><span class="nt">&gt;</span>
+					<span class="nt">&lt;MODS:title&gt;</span>Finsk Tidskrift<span class="nt">&lt;/MODS:title&gt;</span>
+					<span class="nt">&lt;MODS:partName&gt;</span>70-71<span class="nt">&lt;/MODS:partName&gt;</span>
+				<span class="nt">&lt;/MODS:titleInfo&gt;</span>
+				<span class="nt">&lt;MODS:language&gt;</span>
+					<span class="nt">&lt;MODS:languageTerm</span> <span class="na">type=</span><span class="s">"code"</span> <span class="na">authority=</span><span class="s">"rfc3066"</span><span class="nt">&gt;</span>sv<span class="nt">&lt;/MODS:languageTerm&gt;</span>
+				<span class="nt">&lt;/MODS:language&gt;</span>
+				<span class="nt">&lt;MODS:originInfo&gt;</span>
+					<span class="nt">&lt;MODS:dateIssued</span> <span class="na">encoding=</span><span class="s">"w3cdtf"</span> <span class="na">keyDate=</span><span class="s">"yes"</span> <span class="na">qualifier=</span><span class="s">"approximate"</span><span class="nt">&gt;</span>1911<span class="nt">&lt;/MODS:dateIssued&gt;</span>
+				<span class="nt">&lt;/MODS:originInfo&gt;</span>
+				<span class="nt">&lt;MODS:identifier</span> <span class="na">type=</span><span class="s">"ISSN"</span><span class="nt">&gt;</span>0015-248X<span class="nt">&lt;/MODS:identifier&gt;</span>
+			<span class="nt">&lt;/MODS:mods&gt;</span>
+		<span class="nt">&lt;/xmlData&gt;</span>
+	<span class="nt">&lt;/mdWrap&gt;</span>
+<span class="nt">&lt;/dmdSec&gt;</span>
+</code></pre>
+</div>
+
+<h2 id="kokoelman-historia">Kokoelman historia</h2>
+
+<p>Suomessa kulttuuriperinnön digitointi alkoi 1990-luvun puolivälissä. Sanomalehtikokoelman kannalta olennainen käännekohta oli pohjoismaisen TIDEN-projektin käynnistyminen vuonna 1998. Se oli neljän instituution yhteishanke: mukana olivat Ruotsin kuninkaallinen kirjasto, Norjan kansalliskirjasto, Århusin yliopiston kirjasto (Tanska) ja Helsingin yliopiston kirjasto, joka oli hankkeen koordinaattori. Helsingin yliopiston kirjasto oli jo vuonna 1990 perustanut Mikkeliin digitointi- ja konservointikeskuksen, ja tavoitteena oli luoda suomalaisen sanoma- ja aikakauslehdistön kattava mikrofilmikokoelma. Pian kävi kuitenkin ilmeiseksi, että digitointi olisi hedelmällisempi tapa kehittää tutkimuksen infrastruktuuria. TIDEN-projekti antoi mahdollisuuden tutkia nimenomaan digitoinnin kysymyksiä sekä tuottaa digitaalisia kopioita aiemmin tuotettujen mikrofilmikopioiden pohjalta. Tänään Mikkelin toimipiste on osa Kansalliskirjastoa.</p>
+
+<p>Vuonna 2001 Kansalliskirjasto avasi digitaalisten lehtien kokoelman osoitteessa <a href="http://digi.lib.helsinki.fi">http://digi.lib.helsinki.fi</a>. Samalla ilmoitettiin, että kaikki suomalaiset sanomalehdet vuodesta 1771 vuoteen 1860 digitoidaan ja saatetaan avoimiksi verkon kautta. Kokoelman laajuudeksi ilmoitettiin 44 nimikettä, yhteensä 90 000 sivua. Kun sivusto avattiin vuonna 2001, vasta kolmannes, noin 36 000 sivua, oli valmiina. Nyt, 17 vuotta myöhemmin, avoin kokoelma sisältää kaikki sanoma- ja aikakauslehdet vuosilta 1771-1929.</p>
+
+<p>TIDEN-projekti rakensi pohjaa tulevien digitointiprojektien parhaille käytännöille. Sen keskeiset havainnot julkaistiin yhdessä The International Federation of Library Associations and Institutions (IFLA) -järjestön suositusten kanssa julkaisussa <em>Guidance on the Best Practices for Microfilming of Newspapers in Preparation for Possible Future Digitisation (2003)</em>. Suomen digitoitu kokoelma perustuu mikrofilmeihin ja siksi sekä alkuperäisen lehden laatu että filmauksen taso ovat olennaisia. Nykyistä kokoelmaa arvioitaessa tämä on syytä ottaa huomioon: se vaikuttaa siihen, miksi optisen tekstintunnistuksen laatu vaihtelee vuosikymmenittäin.</p>
+
+<h2 id="a-namesourcesasources--lhteet"><a name="sources"></a>Sources / Lähteet</h2>
+
+<p>Bremer-Laamanen, Majlis: Connecting to the past - newspaper digitisation in the Nordic Countries. <em>International Newspaper Librarianship for the 21st Century</em>. Ed. Hartmut Walravens. IFLA Publications Series 118. Munich: K.G. Saur, 2006, 45-50.</p>
+
+<p>Ilva, Jyrki: Kansallisen kulttuuriperinnön digitointi - loppuuko vauhti ennen alkua? <em>Agricolan tietosanomat</em> 2/2004.</p>
+
+<p>Kettunen, Kimmo &amp; Tuula Pääkkönen &amp; Mika Koistinen: Between Diachrony and Synchrony: Evaluation of Lexical Quality of a Digitized Historical Finnish Newspaper and Journal Collection with Morphological Analyzers.
+<a href="https://www.researchgate.net/publication/307904574_Between_Diachrony_and_Synchrony_Evaluation_of_Lexical_Quality_of_a_Digitized_Historical_Finnish_Newspaper_and_Journal_Collection_with_Morphological_Analyzers">Conference paper</a>.</p>
+
+<p>National Library of Finland (2011). <em>The Newspaper and Periodical OCR Corpus of the National Library of Finland (1771-1874)</em> [text corpus]. <a href="http://urn.fi/urn:nbn:fi:lb-2015051201">Kielipankki</a>.</p>
+
+<p>National Library of Finland (2017). <em>The Newspaper and Periodical OCR Corpus of the National Library of Finland (1875-1920)</em> [text corpus]. <a href="http://urn.fi/urn:nbn:fi:lb-201801191">Kielipankki</a>.</p>
+
+<p>Onnela, Tapio: Historiallinen sanomalehtikirjasto 1771-1860. <em>Agricolan tietosanomat</em> 2/2001.</p>
+
+<p>Pääkkönen, Tuula, Jukka Kervinen, Asko Nivala, Kimmo Kettunen and Eetu Mäkelä: Exporting Finnish Digitized Historical Newspaper Contents for Offline Use. <a href="https://www.academia.edu/27807323/Exporting_Finnish_Digitized_Historical_Newspaper_Contents_for_Offline_Use">Conference paper</a>.</p>
+
+<p>Vesanto, Aleksi, Asko Nivala, Heli Rantala, Tapio Salakoski, Hannu Salmi and Filip Ginter, ’Applying BLAST to Text Reuse Detection in Finnish Newspapers and Journals, 1771-1910’, <em>Proceedings of the 21st Nordic Conference of Computational Linguistics</em>. Gothenburg, Sweden, 23-24 May 2017 (Linköping 2017): 54-58, <a href="http://www.ep.liu.se/ecp/133/010/ecp17133010.pdf">http://www.ep.liu.se/ecp/133/010/ecp17133010.pdf</a></p>
+
+<p>Vesanto, Aleksi, Asko Nivala, Tapio Salakoski, Hannu Salmi ja Filip Ginter, ’A System for Identifying and Exploring Text Repetition in Large Historical Document Corpora’, <em>Proceedings of the 21st Nordic Conference of Computational Linguistics</em>. Gothenburg, Sweden, 23-24 May 2017 (Linköping 2017): 330-333, <a href="http://www.ep.liu.se/ecp/131/049/ecp17131049.pdf">http://www.ep.liu.se/ecp/131/049/ecp17131049.pdf</a></p>
+
+      </article>
+
+      
+        <div class="blog-tags">
+          Tags:
+          
+            dh, DiD, data reports
+          
+        </div>
+      
+
+      
+        <!-- Check if any share-links are active -->
+
+
+
+
+<section id = "social-share-section">
+  <span class="sr-only">Share: </span>
+
+  
+  <!--- Share on Twitter -->
+    <a href="https://twitter.com/intent/tweet?text=Digitized+Newspapers+at+the+National+Library+of+Finland%2C+Suomen+kansalliskirjaston+digitoidut+sanomalehdet+s19rm.ryancordell.org/2018-02-20-data-reports-finland/"
+      class="btn btn-social-icon btn-twitter" title="Share on Twitter">
+      <span class="fa fa-fw fa-twitter" aria-hidden="true"></span>
+      <span class="sr-only">Twitter</span>
+    </a>
+  
+
+  
+
+  
+
+  
+
+</section>
+
+
+
+      
+
+      <ul class="pager blog-pager">
+        
+        <li class="previous">
+          <a href="/2018-02-06-data-reports-BL1-BL2/" data-toggle="tooltip" data-placement="top" title="British Library 19th-Century Newspapers">&larr; Previous Post</a>
+        </li>
+        
+        
+        <li class="next">
+          <a href="/2018-03-10-data-reports-german/" data-toggle="tooltip" data-placement="top" title="German Newspapers in Europeana and the Bavarian State Library (digiPress), Deutschsprachige Zeitungen in Europeana und der Bayerischen Staatsbibliothek">Next Post &rarr;</a>
+        </li>
+        
+      </ul>
+
+      
+        <div class="disqus-comments">
+          
+
+        </div>
+      
+    </div>
+  </div>
+</div>
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          
+          <li>
+            <a href="https://github.com/rccordell" title="GitHub">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">GitHub</span>
+            </a>
+          </li>
+          
+		  
+          <li>
+            <a href="https://twitter.com/ryancordell" title="Twitter">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">Twitter</span>
+            </a>
+          </li>
+          
+	  
+      
+		  
+          <li>
+            <a href="mailto:r.cordell@northeastern.edu" title="Email me">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">Email me</span>
+            </a>
+          </li>
+          
+		  
+		  
+		  
+      
+      
+      
+      
+      
+		  
+          <li>
+            <a href="/feed.xml" title="RSS">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">RSS</span>
+            </a>
+          </li>
+          
+      
+      
+      
+        </ul>
+        <p class="copyright text-muted">
+		  Ryan Cordell
+		  &nbsp;&bull;&nbsp;
+		  2018
+
+		  
+		  &nbsp;&bull;&nbsp;
+		  <a href="s19rm.ryancordell.org">s19rm.ryancordell.org</a>
+		  
+	    </p>
+	        <!-- Please don't remove this, keep my open source work credited :) -->
+		<p class="theme-by text-muted">
+		  Theme by
+		  <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+		</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+    
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+
+
+  
+  </body>
+</html>

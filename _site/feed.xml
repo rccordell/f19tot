@@ -1,12 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://s19tot.ryancordell.org/assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="https://s19tot.ryancordell.org/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Technologies of Text, Spring 2019</title>
-		<description>»Technologies of Text« is an experiential course about media, technology, and literary imagination in the Northeastern University English Department.</description>
-		<link>https://s19tot.ryancordell.org/</link>
-		<atom:link href="https://s19tot.ryancordell.org/feed.xml" rel="self" type="application/rss+xml" />
-		
-	</channel>
+  <channel>
+    <title>Reading Machines — Technology and the Book</title>
+    <description>An experiential graduate course in the history of textual technologies at Northeastern University.</description>
+    <link>s19rm.ryancordell.org</link>
+    <atom:link href="s19rm.ryancordell.org/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>The Times Digital Archive (Gale)</title>
+        <description>
+          
+          The Times Digital Archive Collection History The Times Digital Archive was the first online digitized newspaper collection of British newspapers. This early adoption of digitization, building upon the ubiquity of Palmer’s index of the Times, ensured its prominence in historical and journalistic research, including its particular use by the House...
+        </description>
+        <pubDate>Tue, 17 Apr 2018 00:00:00 -0700</pubDate>
+        <link>s19rm.ryancordell.org/2018-04-17-data-reports-tda/</link>
+        <guid isPermaLink="true">s19rm.ryancordell.org/2018-04-17-data-reports-tda/</guid>
+      </item>
+    
+      <item>
+        <title>Digital National Newspaper Library of Mexico, Hemeroteca Nacional Digital de México</title>
+        <description>
+          
+          Digital National Newspaper Library of Mexico Report also available in Español Collection History México’s National Digital Newspaper Library (HNDM, in Spanish) was created between 2004 and 2008. Like many libraries at that time, these new digital storage methods were used both to preserve the originals as well as to provide...
+        </description>
+        <pubDate>Tue, 20 Mar 2018 00:00:00 -0700</pubDate>
+        <link>s19rm.ryancordell.org/2018-03-20-data-reports-mexico/</link>
+        <guid isPermaLink="true">s19rm.ryancordell.org/2018-03-20-data-reports-mexico/</guid>
+      </item>
+    
+      <item>
+        <title>German Newspapers in Europeana and the Bavarian State Library (digiPress), Deutschsprachige Zeitungen in Europeana und der Bayerischen Staatsbibliothek</title>
+        <description>
+          
+          Report also available in deutsch 1. Europeana Data Quantity Europeana Newspapers is a collection of collections. It assembles digitised historical newspaper content from 20 distinct data providers, each with their own data parameters and histories. In total, the Europeana collection includes 28,816,750 pages in 40 different languages. The Oceanic Exchanges...
+        </description>
+        <pubDate>Sat, 10 Mar 2018 00:00:00 -0800</pubDate>
+        <link>s19rm.ryancordell.org/2018-03-10-data-reports-german/</link>
+        <guid isPermaLink="true">s19rm.ryancordell.org/2018-03-10-data-reports-german/</guid>
+      </item>
+    
+      <item>
+        <title>Digitized Newspapers at the National Library of Finland, Suomen kansalliskirjaston digitoidut sanomalehdet</title>
+        <description>
+          
+          Report also available in Suomi The digital collection of the National Library of Finland includes 12.8 million pages of newspapers and journals. Only the newspapers published before 1930 are freely available online at the website of the Library. The collection includes all published newspapers and journals, from the first newspaper...
+        </description>
+        <pubDate>Tue, 20 Feb 2018 00:00:00 -0800</pubDate>
+        <link>s19rm.ryancordell.org/2018-02-20-data-reports-finland/</link>
+        <guid isPermaLink="true">s19rm.ryancordell.org/2018-02-20-data-reports-finland/</guid>
+      </item>
+    
+      <item>
+        <title>British Library 19th-Century Newspapers</title>
+        <description>
+          
+          Building upon previous projects, Oceanic Exchanges is using approximately 3 million pages of nineteenth-century newspapers from the British Library to better understand the structure of digitised newspaper collections and the spread of texts and ideas across global information networks. Although the British Library’s physical collections of historical newspapers are far...
+        </description>
+        <pubDate>Tue, 06 Feb 2018 00:00:00 -0800</pubDate>
+        <link>s19rm.ryancordell.org/2018-02-06-data-reports-BL1-BL2/</link>
+        <guid isPermaLink="true">s19rm.ryancordell.org/2018-02-06-data-reports-BL1-BL2/</guid>
+      </item>
+    
+      <item>
+        <title>Data Reports Series Introduction</title>
+        <description>
+          
+          English Suomi Deutsch Español Nederlands English The first phase of the Oceanic Exchanges project includes a detailed study of our various data sets; before we dig into the data, we need to know about its characteristics. What exactly does it comprise? How were these data sets made? And how might...
+        </description>
+        <pubDate>Tue, 23 Jan 2018 00:00:00 -0800</pubDate>
+        <link>s19rm.ryancordell.org/2018-01-23-data-reports-series/</link>
+        <guid isPermaLink="true">s19rm.ryancordell.org/2018-01-23-data-reports-series/</guid>
+      </item>
+    
+      <item>
+        <title>Data Reports Coming Soon</title>
+        <description>
+          
+          We will soon be adding our first project documents to this site: data reports written by each of the project’s national teams. These reports will survey the historical newspaper data available in our countries—as well as some freely available from other regions of the world—and provide a unique, transnational perspective...
+        </description>
+        <pubDate>Thu, 31 Aug 2017 00:00:00 -0700</pubDate>
+        <link>s19rm.ryancordell.org/2017-08-31-data-reports-coming/</link>
+        <guid isPermaLink="true">s19rm.ryancordell.org/2017-08-31-data-reports-coming/</guid>
+      </item>
+    
+  </channel>
 </rss>
