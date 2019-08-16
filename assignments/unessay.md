@@ -92,24 +92,24 @@ I have also added some pictures of some elements of physical unessays students h
 <div class="row">
     <div class="small-4 columns">
         <figure>
-        <a href="/images/unessays/IMG_4445.jpg" target="_blank">
-        <img src="/images/unessays/IMG_4445.jpg" alt="Model of Renaissance bookwheel" />
+        <a href="/img/unessays/IMG_4445.jpg" target="_blank">
+        <img src="/img/unessays/IMG_4445.jpg" alt="Model of Renaissance bookwheel" />
         </a>
         <figcaption>A working model of a Renaissance bookwheel</figcaption>
         </figure>
     </div>
     <div class="small-4 columns">
         <figure>
-        <a href="/images/unessays/IMG_4504.jpg" target="_blank">
-        <img src="/images/unessays/IMG_4504.jpg" alt="A page written in code" />
+        <a href="/img/unessays/IMG_4504.jpg" target="_blank">
+        <img src="/img/unessays/IMG_4504.jpg" alt="A page written in code" />
         </a>
         <figcaption>One page from a larger project about coded language and written in a code devised by the student</figcaption>
         </figure>
     </div>
     <div class="small-4 columns">
         <figure>
-        <a href="/images/unessays/IMG_4638.jpg" target="_blank">
-        <img src="/images/unessays/IMG_4638.jpg" alt="An altered book project" />
+        <a href="/img/unessays/IMG_4638.jpg" target="_blank">
+        <img src="/img/unessays/IMG_4638.jpg" alt="An altered book project" />
         </a>
         <figcaption>An altered book artwork about memory and preservation in <em>Station Eleven</em></figcaption>
         </figure>
@@ -119,24 +119,24 @@ I have also added some pictures of some elements of physical unessays students h
 <div class="row">
     <div class="small-4 columns">
         <figure>
-        <a href="/images/unessays/IMG_4541.jpg" target="_blank">
-        <img src="/images/unessays/IMG_4541.jpg" alt="An imagined letter from Ada Lovelace to Joseph Marie Jacquard" />
+        <a href="/img/unessays/IMG_4541.jpg" target="_blank">
+        <img src="/img/unessays/IMG_4541.jpg" alt="An imagined letter from Ada Lovelace to Joseph Marie Jacquard" />
         </a>
         <figcaption>An imagined letter from Ada Lovelace to Joseph Marie Jaquard; part of a larger project on Lovelace</figcaption>
         </figure>
     </div>
     <div class="small-4 columns">
         <figure>
-        <a href="/images/unessays/IMG_4543.jpg" target="_blank">
-        <img src="/images/unessays/IMG_4543.jpg" alt="A loom punchcard and woven Ada Lovelace" />
+        <a href="/img/unessays/IMG_4543.jpg" target="_blank">
+        <img src="/img/unessays/IMG_4543.jpg" alt="A loom punchcard and woven Ada Lovelace" />
         </a>
         <figcaption>A model Jacquard loom punchcard and a woven figure of Ada Lovelace partly drawn from the pattern encoded in these cards.</figcaption>
         </figure>
     </div>
     <div class="small-4 columns">
         <figure>
-        <a href="/images/unessays/IMG_4642.jpg" target="_blank">
-        <img src="/images/unessays/IMG_4642.jpg" alt="An annotated map of New York City" />
+        <a href="/img/unessays/IMG_4642.jpg" target="_blank">
+        <img src="/img/unessays/IMG_4642.jpg" alt="An annotated map of New York City" />
         </a>
         <figcaption>An annotated map about the textuality of space and place in New York City</figcaption>
         </figure>

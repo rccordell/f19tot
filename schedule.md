@@ -4,17 +4,84 @@ title: Class Schedule
 bigimg: /img/differenceEngine.jpg
 ---
 
-## A Note on the Schedule:
+# Using this Schedule
 
-Each week there are readings listed under *Core* and *Penumbra*. The core readings are just that: central to the week's discussion and lab. Everyone should read these closely and prepare to discuss them. The penumbral readings include some of the many brilliant pertinent readings I could not require because time is, sadly, finite. Each week you should choose (at least) one of the penumbral readings, based on your own interests, to read closely and be prepared to discuss in class. 
+## Schedule Organization
 
-In the week you lead class you should prepare all of the core and penumbral readings, and if you choose to dig into one of these topics for an assignment the penumbral readings are the first place you can start expanding your thinking.
+With a few marked exceptions, the readings on the schedule below should be prepared (and the *class prep* for them committed to your [fieldbook](/assignments/fieldbook)) prior to the first class of their respective week, which is generally a Monday. 
+
+Unless otherwise noted, each Wednesday we complete a humanities laboratory together. Labs are generally held in our regular classroom, but there will be a few times during the semester when we will meet in a place called out on the schedule.
 
 ## Accessing Readings
 
-The majority of our readings will be available online or through [a digital course packet in Leganto](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/lists/8892775840001401?auth=SAML). The first time you wish to access items from Leganto you will need to log in through Blackboard (the only time we'll use it this semester), but thereafter the direct links in the schedule should work. If you switch to a new computer or device you may need to log in through Blackboard once. 
+The majority of our readings will be available online or through [a digital course packet in Leganto](). The first time you wish to access items from Leganto you will need to log in through Blackboard (the only time we'll use it this semester), but thereafter the direct links in the schedule should work. If you switch to a new computer or device you may need to log in through Blackboard once. 
 
 -----
+
+
+### September 4
+
+Introducing the class
+
+### September 9
+
+{% include alert info='[Lab #?: Mark(it all)down]()' %}
+
+### September 11
+
+{% include alert info='[Lab #?: Programm Poetry]()' %}
+
+### September 16
+
+{% include alert info='[Lab #?: Into the Archive I]()' %}
+
+### September 18
+
+### September 23
+
+### September 25
+
+### September 30 
+
+### October 2
+
+### October 7
+
+### October 9
+
+**No class October 14: Indigenous Peoples Day**
+
+### October 16
+
+### October 21
+
+### October 23
+
+### October 28
+
+### October 30
+
+{% include alert warning='DUE: [Dead Media Poster Presentations](/assignments/deadmediaposter/) in class October 30' %}
+
+### November 4
+
+### November 6
+
+**No class November 11: Veterans' Day**
+
+### November 13
+
+### November 18
+
+### November 25
+
+### December 2
+
+### December 4
+
+{% include alert warning='DUE: [Unessay Presentations](/assignments/deadmediaposter/) in class December 4' %}
+
+
 
 # January 9: Medium
 
