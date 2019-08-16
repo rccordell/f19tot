@@ -17,7 +17,7 @@ baseurl: ""
 title: Technologies of Text (Fall 2019)
 
 # Short description of your site
-description: An experiential course in the English Department at Northeastern University
+description: An experiential undergraduate course in the English Department at Northeastern University
 
 # --- Navigation bar options --- #
 
@@ -28,10 +28,10 @@ navbar-links:
   Schedule: "schedule"
   Assignments: 
     - Overview and Grading: "assignments"
-    - Leading Class Discussion: "assignments/discussion"
+    - In-Class Work: "assignments/in-class"
     - Fieldbook: "assignments/fieldbook"
     - Dead Media Poster: "assignments/dead-media"
-    - Seminar Unpaper: "assignments/unpaper"
+    - Unessay: "assignments/unessay"
   News: "news"
 
 
@@ -83,7 +83,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "s19rm.ryancordell.org"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "s19tot.ryancordell.org"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
