@@ -25,15 +25,12 @@ Introducing the class
 
 ### September 9
 
-{% include alert info='[Lab #?: Mark(it all)down]()' %}
 
 ### September 11
 
-{% include alert info='[Lab #?: Programm Poetry]()' %}
 
 ### September 16
 
-{% include alert info='[Lab #?: Into the Archive I]()' %}
 
 ### September 18
 
@@ -61,7 +58,6 @@ Introducing the class
 
 ### October 30
 
-{% include alert warning='DUE: [Dead Media Poster Presentations](/assignments/deadmediaposter/) in class October 30' %}
 
 ### November 4
 
@@ -79,7 +75,6 @@ Introducing the class
 
 ### December 4
 
-{% include alert warning='DUE: [Unessay Presentations](/assignments/deadmediaposter/) in class December 4' %}
 
 
 
