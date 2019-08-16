@@ -67,7 +67,7 @@ And you are not going to be left unprepared for instructors who assign “real�
 
 But even more importantly, the things you will be doing in an unessay will help improve your “real” ones: excellent “real” essays also match form to topic and are about things you are interested in; if you learn how to write compelling and effective unessays, you’ll find it a lot easier to do well in your “real” essays as well.
 
-## Model Unessays
+## Model Digital Unessays
 
 Below are some fantastic digital unessays that students have submitted. These examples don’t necessarily model the *content* of your assignments, as some were completed for classes covering very different topics, but hopefully they will give you a sense of what kinds of work you might complete.
 
@@ -87,7 +87,11 @@ Below are some fantastic digital unessays that students have submitted. These ex
 + [Graffiti and New Media](http://graffitiandnewmedia.tumblr.com/)
 + [Which Text(s) Work(s)?](https://damoren.wordpress.com/)
 
-I have also added some pictures of some elements of physical unessays students have submitted. Most of these were accompanied by written components which I don't reproduce here, but I'm happy to talk about them. I will bring these and some other physical model unessays to class to discuss, or you can peruse them during office hours.
+## Model Analog Unessays
+
+Below I include pictures of some elements of physical unessays students have submitted. Most of these were accompanied by written components which I don't reproduce here, but I'm happy to talk about them. I will bring these and some other physical model unessays to class to discuss, or you can peruse them during office hours.
+
+-----
 
 <div class="row">
     <div class="small-4 columns">

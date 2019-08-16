@@ -18,12 +18,26 @@ The majority of our readings will be available online or through [a digital cour
 
 -----
 
+# Book the First &#9755; (re)Mediation
 
-### September 4
+## September 4: Medium
 
-Introducing the class
+#### Lab 1: Mark(it all)down
 
-### September 9
+### Core
+
++ Marshall McLuhan, ["The Medium is the Message"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006734890001401?auth=SAML) (1964)
+
+## September 9 & 11: 
+
+### Core
+
++ James Gleick, *The Information* (2011), prologue-chapter 2 (pg. 3-50)
++ Amaranth Borsuk, “The Book as Object” from *The Book* (2018)
+
+### Penumbra
+
+
 
 
 ### September 11
@@ -82,7 +96,6 @@ Introducing the class
 
 ## Core:
 
-+ Marshall McLuhan, ["The Medium is the Message"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893990860001401?auth=SAML) (1964)
 + Lisa Gitelman, "Introduction: Media as Historical Subjects," from [*Always Already New: Media, History, and the Data of Culture*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8892858620001401?auth=SAML) (MIT Press, 2006)
 + Alan Liu, ["Imagining the New Media Encounter"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-3-1&toc.depth=1&toc.id=ss1-3-1&brand=9781405148641_brand) (2008)
 + N. Katherine Hayles and Jessica Pressman, "Making, Critique: A Media Framework," introduction to [*Comparative Textual Media*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8892776320001401?auth=SAML) (2013)
