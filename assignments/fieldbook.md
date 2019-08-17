@@ -6,16 +6,16 @@ bigimg: /img/14934283002_9663bae608_k-banner.jpg
 
 ## Assignment Overview:
 
-+ A growing portfolio of documents, composed in [MultiMarkdown](http://fletcherpenney.net/multimarkdown/) and committed to a [Github repository](https://github.com/)
++ A growing portfolio of documents, composed in [MultiMarkdown](http://fletcherpenney.net/multimarkdown/) and committed to a [Github Classroom repository](https://github.com/)
 + Students work individually
-+ Class preparation entries due before the class in question; lab report entries due 1 week after the final session for the pertinent lab
-+ Some stellar entries will be posted on the course website under [Model Fieldbook Entries](/updates/models/)
++ Class preparation entries due before the lab unit in question; lab report entries due 1 week after the final session of a given lab
++ Some stellar entries will be posted as examples on the course website
 
 ## Details:
 
-Technologies of Text is an experiential course that moves between discussion of readings and applied "humanities laboratories" each week. A central goal of the class will be to bring its two facets into conversation: to use our readings and discussions to contextualize our applied work in laboratories, and to use our applied work in laboratories to enrich our understanding of concepts from our readings. 
+Technologies of Text is an experiential course organized around a series of "humanities laboratories," each with associated readings. A central goal of the class will be to bring its two facets into conversation: to use our readings and discussions to contextualize our applied work in laboratories, and to use our applied work in laboratories to enrich our understanding of concepts from our readings. 
 
-To help accomplish this goal, you will maintain a fieldbook, which will constitute your central scholarly activity throughout this semester. I call this assignment a "fieldbook" rather than a "journal" to convey its hybridity: week by week, your entries will include a mix of description, analysis, code, figures, or images. This ongoing assignment will give you the chance to organize the diverse tasks of the class' experiential work, practice the skills introduced in the labs, bring your experiential work into conversation with class readings and personal research, and experiment with ideas that will be further developed in your [Unessay projects](/assignments/unessay). 
+To help accomplish this goal, you will maintain a fieldbook, which will constitute your central scholarly activity throughout this semester. I call this assignment a "fieldbook" rather than a "journal" to convey something about its expected form: your entries will include a mix of description, analysis, code, figures, or images. This ongoing assignment will give you the chance to organize the diverse tasks of the class' experiential work, practice the skills introduced in the labs, bring your experiential work into conversation with class readings and personal research, and experiment with ideas that will be further developed in your [Unessay projects](/assignments/unessay). 
 
 There will be two types of entries in your fieldbooks: **class preparation** and **lab report**. 
 
