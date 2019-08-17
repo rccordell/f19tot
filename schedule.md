@@ -80,26 +80,36 @@ Prep:
 
 ## Lab Five &#9755; Automatic Literature 
 
-### September 23 & 25
+### September 23
+
+Prep:
+
++ Annette Vee, “Introduction: Computer Programming as Literacy” from [*Coding Literacy: How Computer Programming is Changing Writing*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006742010001401?auth=SAML) (2018)
+
+### September 25
 
 Prep:
 
 + Leonardo Flores, ["What is E-Poetry?"](http://iloveepoetry.org/?p=11968) (2015)
 + [Electronic Literature Collection: Bots](http://collection.eliterature.org/3/collection-bots.html) 
-+ Annette Vee, “Introduction: Computer Programming as Literacy” from [*Coding Literacy: How Computer Programming is Changing Writing*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006742010001401?auth=SAML) (2018)
 
 -----
 
 ## Lab Six &#9755; Into the Matrix
 
-### September 30 & October 2
+### September 30
 
 Prep: 
 
 + Benjamin Franklin, [*The Autobiography of Benjamin Franklin*](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#II), Chapters 2-7 or in [this edition](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9081706940001401?auth=SAML) without chapters (read from pg. 14 "From a child I was fond of reading" to pg. 53 "I think this was in or about the year 1729.")
++ (watch) Stephen Fry, [*The Machine That Made Us*](http://www.veoh.com/watch/v18714625RMJnrG8x) (2009); *note: this video is about 1 hour long; plan accordingly!*
+
+### October 2
+
+Prep:
+
 + Emily Faithfull, ["Women Compositors,"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9007242390001401?auth=SAML) *English Woman's Journal* (1861)
 + Sarah Werner, ["Finding Women in the Printing Shop"](http://sarahwerner.net/blog/2014/10/finding-women-in-the-printing-shop/) (2014)
-+ (optional, but charming, watch) Stephen Fry, [*The Machine That Made Us*](http://www.veoh.com/watch/v18714625RMJnrG8x) (2009); *note: this video is about 1 hour long; plan accordingly!*
 
 -----
 
@@ -163,12 +173,17 @@ Prep:
 
 ## Lab Eleven &#9755; Text as Data 
 
-### October 23 & 28
+### October 23
+
+Prep: 
+
++ Sydney Padua, [*The Thrilling Adventures of Lovelace and Babbage:  The (Mostly) True Story of the First Computer*](http://amzn.to/2iPqWRY) (2015), beginning-pg. 90
+
+### October 28
 
 Prep: 
 
 + James Gleick, *The Information* (2011), chapters 4-6 (pg. 78-203)
-+ Sydney Padua, [*The Thrilling Adventures of Lovelace and Babbage:  The (Mostly) True Story of the First Computer*](http://amzn.to/2iPqWRY) (2015), beginning-pg. 90
 
 ----
 
@@ -221,7 +236,7 @@ Prep:
 
 ## Lab Fifteen &#9755; Zine You Around 
 
-### November 18 & 20
+### November 18
 
 *Meet in the Northeastern Archives & Special Collections, 92 Snell Library (in the basement) on November 18*
 
@@ -229,6 +244,11 @@ Prep:
 
 + Pagan Kennedy, from ‘Zine (1995)
 + Zine Librarians [Code of Ethics](http://zinelibraries.info/wordpress/wp-content/uploads/2015/11/EthicsZine-rev-20151105.pdf) (2015)
+
+### November 20
+
+Prep:
+
 + Amaranth Borsuk, “The Book as Idea” and “The Book as Interface” from *The Book* (2018)
 
 -----
