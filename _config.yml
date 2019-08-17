@@ -29,7 +29,7 @@ navbar-links:
   Assignments: 
     - Overview and Grading: "assignments"
     - In-Class Work: "assignments/in-class"
-    - Fieldbook: "assignments/fieldbook"
+    - Lab Reports: "assignments/lab-reports"
     - Dead Media Poster: "assignments/dead-media"
     - Unessay: "assignments/unessay"
   News: "news"
