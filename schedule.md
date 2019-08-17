@@ -18,7 +18,9 @@ The majority of our readings will be available online or through [a digital cour
 
 # Schedule
 
-## &#9755; Introductions &#10087; September 4
+## Introductions
+
+### September 4
 
 Readings (together):
 
@@ -26,7 +28,9 @@ Readings (together):
 
 -----
 
-## &#9755; Lab One &#10087; Mark(it all)down &#10087; September 9
+## Lab One &#9755; Mark(it all)down 
+
+### September 9
 
 Readings: 
 
@@ -35,7 +39,9 @@ Readings:
 
 -----
 
-## &#9755; Lab Two &#10087; Making Language Visible &#10087; September 11
+## Lab Two &#9755; Making Language Visible 
+
+### September 11
 
 *Meet at the group entrance to the Museum of Fine Arts (toward the Fenway)*
 
@@ -46,7 +52,9 @@ Readings:
 
 ----- 
 
-## &#9755; Lab Three &#10087; Illuminating the Text &#10087; September 16
+## Lab Three &#9755; Illuminating the Text 
+
+### September 16
 
 Prep: 
 
@@ -57,7 +65,9 @@ Prep:
 
 ----- 
 
-## &#9755; Lab Four &#10087; Into the Archives I &#10087; September 18
+## Lab Four &#9755; Into the Archives I 
+
+### September 18
 
 *Meet in the Northeastern Archives & Special Collections, 92 Snell Library (in the basement)*
 
@@ -68,18 +78,21 @@ Prep:
 
 -----
 
-## &#9755; Lab Five &#10087; Automatic Literature &#10087; September 23 & 25
+## Lab Five &#9755; Automatic Literature 
+
+### September 23 & 25
 
 Prep:
 
 + Leonardo Flores, ["What is E-Poetry?"](http://iloveepoetry.org/?p=11968) (2015)
 + [Electronic Literature Collection: Bots](http://collection.eliterature.org/3/collection-bots.html) 
 + Annette Vee, “Introduction: Computer Programming as Literacy” from [*Coding Literacy: How Computer Programming is Changing Writing*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006742010001401?auth=SAML) (2018)
-+ (optional) Laure Thompson and David Mimno, "Computational Cut-Ups: The Influence of Dada" (2018)
 
 -----
 
-## &#9755; Lab Six &#10087; Into the Matrix &#10087; September 30 & October 2
+## Lab Six &#9755; Into the Matrix
+
+### September 30 & October 2
 
 Prep: 
 
@@ -90,7 +103,9 @@ Prep:
 
 -----
 
-## &#9755; Lab Seven &#10087; Typecasting &#10087; October 7
+## Lab Seven &#9755; Typecasting 
+ 
+### October 7
 
 Prep: 
 
@@ -100,7 +115,9 @@ Prep:
 
 -----
 
-## &#9755; Lab Eight &#10087; Bound and Determined &#10087; October 9
+## Lab Eight &#9755; Bound and Determined 
+
+### October 9
 
 Prep: 
 
@@ -113,11 +130,15 @@ Prep:
 
 -----
 
-## &#9755; No class &#10087; Indigenous Peoples Day &#10087; October 14
+## No class &#9755; Indigenous Peoples Day
+
+### October 14
 
 -----
 
-## &#9755; Lab Nine &#10087; Into the Archives II &#10087; October 16
+## Lab Nine &#9755; Into the Archives II 
+
+### October 16
 
 *Meet in the lobby of the Massachusetts Historical Society (1154 Boylston Street)*
 
@@ -128,7 +149,9 @@ Prep:
 
 ----- 
 
-## &#9755; Lab Ten &#10087; Going the Rounds &#10087; October 21
+## Lab Ten &#9755; Going the Rounds 
+
+### October 21
 
 Prep:
 
@@ -138,7 +161,9 @@ Prep:
 
 -----
 
-## &#9755; Lab Eleven &#10087; Text as Data &#10087; October 23 & 28
+## Lab Eleven &#9755; Text as Data 
+
+### October 23 & 28
 
 Prep: 
 
@@ -147,11 +172,15 @@ Prep:
 
 ----
 
-## &#9755; Presentations &#10087; Dead Media Posters &#10087; October 30
+## Presentations &#9755; Dead Media Posters 
+
+### October 30
 
 -----
 
-## &#9755; Lab Twelve &#10087; Algorithmic Reading &#10087; November 4
+## Lab Twelve &#9755; Algorithmic Reading 
+
+### November 4
 
 Prep:
 
@@ -160,7 +189,9 @@ Prep:
 
 -----
 
-## &#9755; Lab Thirteen &#10087; Across Modalities &#10087; November 6
+## Lab Thirteen &#9755; Across Modalities 
+
+### November 6
 
 Prep:
 
@@ -170,11 +201,15 @@ Prep:
 
 -----
 
-## &#9755; No class &#10087; Veterans' Day &#10087; November 11
+## No class &#9755; Veterans' Day 
+
+### November 11
 
 -----
 
-## &#9755; Lab Fourteen &#10087; Word Processing &#10087; November 13
+## Lab Fourteen &#9755; Word Processing
+
+### November 13
 
 Prep:
 
@@ -184,7 +219,9 @@ Prep:
 
 -----
 
-## &#9755; Lab Fifteen &#10087; Zine You Around &#10087; November 18 & 20
+## Lab Fifteen &#9755; Zine You Around 
+
+### November 18 & 20
 
 *Meet in the Northeastern Archives & Special Collections, 92 Snell Library (in the basement) on November 18*
 
@@ -196,16 +233,22 @@ Prep:
 
 -----
 
-## &#9755; Open Day &#10087; November 25
+## Open Day &#9755; &#8253;
+
+### November 25
 
 -----
  
 
-## &#9755; Thanksgiving Break &#10087; November 27-December 1
+## Thanksgiving Break 
+
+### November 27-December 1
 
 ----- 
 
-## &#9755; Lab Sixteen &#10087; Electronic Literature &#10087; December 2 
+## Lab Sixteen &#9755; Electronic Literature 
+
+### December 2 
 
 Prep:
 
@@ -214,4 +257,6 @@ Prep:
 
 -----
 
-## &#9755; Presentations &#10087; Unessay Projects &#10087; December 4
+## Presentations &#9755; Unessay Projects 
+
+### December 4
