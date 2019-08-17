@@ -16,8 +16,9 @@ Unless otherwise noted, each Wednesday we complete a humanities laboratory toget
 
 The majority of our readings will be available online or through [a digital course packet in Leganto](). The first time you wish to access items from Leganto you will need to log in through Blackboard (the only time we'll use it this semester), but thereafter the direct links in the schedule should work. If you switch to a new computer or device you may need to log in through Blackboard once. 
 
+# Schedule
 
-## Introductions (September 4)
+## &#9755; Introductions &#10087; September 4
 
 Read (together):
 
@@ -25,7 +26,7 @@ Read (together):
 
 -----
 
-## Lab One &#9755; Mark(it all)down &#9755; September 9
+## &#9755; Lab One &#10087; Mark(it all)down &#10087; September 9
 
 Readings: 
 
@@ -34,7 +35,7 @@ Readings:
 
 -----
 
-## Lab Two &#9755; Making Language Visible &#9754; September 11
+## &#9755; Lab Two &#10087; Making Language Visible &#10087; September 11
 
 *Meet at the group entrance to the Museum of Fine Arts (toward the Fenway)*
 
@@ -45,7 +46,7 @@ Readings:
 
 ----- 
 
-## Lab Three &#9755; Illuminating the Text &#9754; September 16
+## &#9755; Lab Three &#10087; Illuminating the Text &#10087; September 16
 
 Read: 
 
@@ -56,7 +57,7 @@ Read:
 
 ----- 
 
-## Lab Four &#9755; Into the Archives I &#9754; September 18
+## &#9755; Lab Four &#10087; Into the Archives I &#10087; September 18
 
 *Meet in the Northeastern Archives & Special Collections, 92 Snell Library (in the basement)*
 
@@ -67,7 +68,7 @@ Read:
 
 -----
 
-## Lab Five &#9755; Automatic Literature &#9754; September 23 & 25
+## &#9755; Lab Five &#10087; Automatic Literature &#10087; September 23 & 25
 
 Read:
 
@@ -79,7 +80,7 @@ Read:
 
 -----
 
-## Lab Six &#9755; Into the Matrix &#9754; September 30, October 2 & 7
+## &#9755; Lab Six &#10087; Into the Matrix &#10087; September 30, October 2 & 7
 
 Read: 
 
@@ -91,7 +92,7 @@ Read:
 
 -----
 
-## Lab Six &#9755; Bound and Determined &#9754; October 9
+## &#9755; Lab Six &#10087; Bound and Determined &#10087; October 9
 
 Read: 
 
@@ -100,11 +101,11 @@ Read:
 
 -----
 
-## No class &#9755; Indigenous Peoples Day &#9754; October 14
+## &#9755; No class &#10087; Indigenous Peoples Day &#10087; October 14
 
 -----
 
-## Lab Seven &#9755; Into the Archives II &#9754; October 16
+## &#9755; Lab Seven &#10087; Into the Archives II &#10087; October 16
 
 *Meet in the lobby of the Massachusetts Historical Society (1154 Boylston Street)*
 
@@ -115,7 +116,7 @@ Read:
 
 ----- 
 
-## Lab Eight &#9755; Going the Rounds &#9754; October 21
+## &#9755; Lab Eight &#10087; Going the Rounds &#10087; October 21
 
 Read:
 
@@ -124,7 +125,7 @@ Read:
 
 -----
 
-## Lab Nine &#9755; Text as Data &#9754; October 23 & 28
+## &#9755; Lab Nine &#10087; Text as Data &#10087; October 23 & 28
 
 Read: 
 
@@ -133,19 +134,19 @@ Read:
 
 ----
 
-## Presentations &#9755; Dead Media Posters &#9754; October 30
+## &#9755; Presentations &#10087; Dead Media Posters &#10087; October 30
 
 -----
 
-## Lab Ten &#9755; Algorithmic Reading &#9754; November 4 & 6
+## &#9755; Lab Ten &#10087; Algorithmic Reading &#10087; November 4 & 6
 
 -----
 
-## No class &#9755; Veterans' Day &#9754; November 11
+## &#9755; No class &#10087; Veterans' Day &#10087; November 11
 
 -----
 
-## Lab Eleven &#9755; Across Modalities &#9754; November 13
+## &#9755; Lab Eleven &#10087; Across Modalities &#10087; November 13
 
 Read:
 
@@ -155,7 +156,7 @@ Read:
 
 -----
 
-## Lab Twelve &#9755; Zine You Around &#9754; November 18 & 20
+## &#9755; Lab Twelve &#10087; Zine You Around &#10087; November 18 & 20
 
 Read: 
 
@@ -165,7 +166,7 @@ Read:
 
 -----
 
-## Lab Thirteen &#9755; Into the Archives III &#9754; November 25
+## &#9755; Lab Thirteen &#10087; Into the Archives III &#10087; November 25
 
 *Meet in the Northeastern Archives & Special Collections, 92 Snell Library (in the basement)*
 
@@ -177,11 +178,11 @@ Read:
 -----
  
 
-## &#9755; Thanksgiving Break &#9754; November 27-December 1
+## &#9755; Thanksgiving Break &#10087; November 27-December 1
 
 ----- 
 
-## Lab Fourteen &#9755; Future Text &#9754; December 2 
+## &#9755; Lab Fourteen &#10087; Future Text &#10087; December 2 
 
 Read:
 
@@ -190,7 +191,7 @@ Read:
 
 -----
 
-## Presentations &#9755; Unessay Projects &#9754; December 4
+## &#9755; Presentations &#10087; Unessay Projects &#10087; December 4
 
 
 
