@@ -14,7 +14,7 @@ Unless otherwise noted, each Wednesday we complete a humanities laboratory toget
 
 ## Accessing Readings
 
-The majority of our readings will be available online or through [a digital course packet in Leganto](). The first time you wish to access items from Leganto you will need to log in through Blackboard (the only time we'll use it this semester), but thereafter the direct links in the schedule should work. If you switch to a new computer or device you may need to log in through Blackboard once. 
+The majority of our readings will be available online or through [a digital course packet in Leganto](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/lists/9427052560001401?auth=SAML). The first time you wish to access items from Leganto you will need to log in through Blackboard (the only time we'll use it this semester), but thereafter the direct links in the schedule should work. If you switch to a new computer or device you may need to log in through Blackboard once. 
 
 # Schedule
 
@@ -34,7 +34,7 @@ Readings (together):
 
 Readings: 
 
-+ Lisa Gitelman, "Introduction: Media as Historical Subjects," from [*Always Already New: Media, History, and the Data of Culture*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8892858620001401?auth=SAML) (MIT Press, 2006)
++ Lisa Gitelman, "Introduction: Media as Historical Subjects," from [*Always Already New: Media, History, and the Data of Culture*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052590001401?auth=SAML) (2006)
 + James Gleick, *The Information* (2011), prologue-chapter 2 (pg. 3-50)
 
 -----
@@ -47,8 +47,8 @@ Readings:
 
 Readings:
 
-+ Plato, [selection from *Phaedrus*]()
-+ Christopher Woods, "Visible Language: The Earliest Writing Systems" (2015)
++ Plato, [selection from *Phaedrus*](https://www.units.miamioh.edu/technologyandhumanities/plato.htm)
++ Christopher Woods, ["Visible Language: The Earliest Writing Systems"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427054980001401?auth=SAML) (2015)
 
 ----- 
 
@@ -73,7 +73,7 @@ Prep:
 
 Prep:
 
-+ Bonnie Mak, ["Architectures of the Page"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006739380001401?auth=SAML) (2011)
++ Bonnie Mak, ["Architectures of the Page"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052600001401?auth=SAML) (2011)
 + Amaranth Borsuk, “The Book as Object” from *The Book* (2018)
 
 -----
@@ -84,7 +84,7 @@ Prep:
 
 Prep:
 
-+ Annette Vee, “Introduction: Computer Programming as Literacy” from [*Coding Literacy: How Computer Programming is Changing Writing*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006742010001401?auth=SAML) (2018)
++ Annette Vee, “Introduction: Computer Programming as Literacy” from [*Coding Literacy: How Computer Programming is Changing Writing*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052630001401?auth=SAML) (2018)
 
 ### September 25
 
@@ -101,7 +101,7 @@ Prep:
 
 Prep: 
 
-+ Benjamin Franklin, [*The Autobiography of Benjamin Franklin*](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#II), Chapters 2-7 or in [this edition](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9081706940001401?auth=SAML) without chapters (read from pg. 14 "From a child I was fond of reading" to pg. 53 "I think this was in or about the year 1729.")
++ Benjamin Franklin, [*The Autobiography of Benjamin Franklin*](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#II), Chapters 2-7 or in [this edition](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052650001401?auth=SAML) without chapters (read from pg. 14 "From a child I was fond of reading" to pg. 53 "I think this was in or about the year 1729.")
 + (watch) Stephen Fry, [*The Machine That Made Us*](http://www.veoh.com/watch/v18714625RMJnrG8x) (2009); *note: this video is about 1 hour long; plan accordingly!*
 
 ### October 2
@@ -119,7 +119,7 @@ Prep:
 
 Prep: 
 
-+ Marcy J. Dinius, "'Look!! Look!!! at This!!!!': The Radical Typography of David Walker’s Appeal" (2011)
++ Marcy J. Dinius, ["'Look!! Look!!! at This!!!!': The Radical Typography of David Walker’s Appeal"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427055560001401?auth=SAML) (2011)
 + Chris Gayomali, ["How Typeface Influences the Way We Read and Think"](http://theweek.com/articles/463196/how-typeface-influences-way-read-think) (2013)
 + Choose a font to research from the [Font Review Journal](http://fontreviewjournal.com/), [Typographica's Favorite Typefaces of 2017](https://typographica.org/features/our-favorite-typefaces-of-2017/), or the [Kern Your Enthusiasm series](http://hilobrow.com/tag/kern-enthusiasm/). Be ready to discuss it in class.
 
@@ -135,7 +135,7 @@ Prep:
     + [Friday, January 29](http://www.pemberley.com/janeinfo/auslet22.html#letter124)
     + [Thursday, February 4](http://www.pemberley.com/janeinfo/auslet22.html#letter125)
     + [February ?? 1813](http://www.pemberley.com/janeinfo/auslet22.html#letter126)
-+ Charles W. Chesnutt, ["Baxter's Procustes"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893992610001401?auth=SAML) (1904)
++ Charles W. Chesnutt, ["Baxter's Procustes"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427057530001401?auth=SAML) (1904)
 + Amaranth Borsuk, “The Book as Content” from *The Book* (2018)
 
 -----
@@ -154,7 +154,7 @@ Prep:
 
 Prep:
 
-+ Ellen Cushman, ["'We're Taking the Genius of Sequoyah into This Century': The Cherokee Syllabary, Peoplehood, and Perseverance"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006741960001401?auth=SAML) (2011)
++ Ellen Cushman, ["'We're Taking the Genius of Sequoyah into This Century': The Cherokee Syllabary, Peoplehood, and Perseverance"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052620001401?auth=SAML) (2011)
 + James Gleick, *The Information* (2011), chapter 3 (pg. 51-77)
 
 ----- 
@@ -166,7 +166,7 @@ Prep:
 Prep:
 
 + James Gleick, *The Information* (2011), chapters 11 (pg. 310-323)
-+ Ellen Gruber Garvey, "Introduction" from [*Writing with Scissors*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894014870001401?auth=SAML) (2012)
++ Ellen Gruber Garvey, "Introduction" from [*Writing with Scissors*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427057840001401?auth=SAML) (2012)
 + Ryan Cordell and Abby Mullen, ["'Fugitive Verses': The Circulation of Poems in Nineteenth-Century American Newspapers"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733660001401?auth=SAML) (2017). Also Read "Beautiful Snow" and 2 other verses of your choosing from [*Fugitive Verses*](http://fugitiverses.viraltexts.org), looking at the example poems at the example newspaper printing linked at the top of each.
 
 -----
