@@ -1,0 +1,231 @@
+---
+layout: page
+title: Class Schedule
+bigimg: /img/differenceEngine.jpg
+---
+
+# Using this Schedule
+
+## Schedule Organization
+
+With a few marked exceptions, our class is organized by weeks, each with assigned readings and a lab. Each week's readings should be prepared (and the *class prep* for them committed to your [fieldbook](/assignments/fieldbook)) prior to the first class of their respective week, which is generally a Monday. Typically we will devote one day largely to discussion of readings and one to our lab activities, though in any given week this precise organization may shift or blend. You should expect discussion of readings to continue into our lab activities. Labs are generally held in our regular classroom, but there will be a few times during the semester when we will meet in a place called out on the schedule.
+
+## Accessing Readings
+
+The majority of our readings will be available online or through [a digital course packet in Leganto](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/lists/9427052560001401?auth=SAML). The first time you wish to access items from Leganto you will need to log in through Blackboard (the only time we'll use it this semester), but thereafter the direct links in the schedule should work. If you switch to a new computer or device you may need to log in through Blackboard once. 
+
+# Schedule
+
+## Preface &#9755; Medium
+
+### September 4
+
+Readings (together):
+
++ Marshall McLuhan, ["The Medium is the Message"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006734890001401?auth=SAML) (1964)
+
+-----
+
+## Chapter One &#9755; Inscription
+
+### September 9 & 11
+
+Readings: 
+
++ Plato, [selection from *Phaedrus*](https://www.units.miamioh.edu/technologyandhumanities/plato.htm)
++ Lisa Gitelman, "Introduction: Media as Historical Subjects," from [*Always Already New: Media, History, and the Data of Culture*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052590001401?auth=SAML) (2006)
++ James Gleick, "Drums that Talk" from *The Information* (2011)
++ Amaranth Borsuk, “The Book as Content” from *The Book* (2018)
+
+### Lab 1 &#8594; Mark(it all)down 
+
+-----
+
+## Chapter Two &#9755; Literacy
+
+### September 16 & 18
+
+Prep: 
+
++ Ælfric, [Preface to his translation of Genesis](https://brandonwhawk.net/2014/07/30/aelfrics-preface-to-genesis-a-translation/) (ca. 990)
++ Leonardo Flores, ["What is E-Poetry?"](http://iloveepoetry.org/?p=11968) (2015)
++ Annette Vee, “Introduction: Computer Programming as Literacy” from [*Coding Literacy: How Computer Programming is Changing Writing*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052630001401?auth=SAML) (2018)
+
+### Lab 2 &#8594; Programming Literature 
+
+-----
+
+## Chapter Three &#9755; Type
+
+### September 23 & 25
+
+Prep:
+
++ Excerpts from Johannes Trithemius, [*In Praise of Scribes*](http://misc.yarinareth.net/trithemius.html) (1492)
++ (watch) Stephen Fry, [*The Machine That Made Us*](http://www.veoh.com/watch/v18714625RMJnrG8x) (2009); *note: this video is about 1 hour long; plan accordingly!*
++ Marcy J. Dinius, ["'Look!! Look!!! at This!!!!': The Radical Typography of David Walker’s Appeal"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427055560001401?auth=SAML) (2011)
++ Chris Gayomali, ["How Typeface Influences the Way We Read and Think"](http://theweek.com/articles/463196/how-typeface-influences-way-read-think) (2013)
+
+### Lab 3 &#8594; Letterpress I: Composition
+
+-----
+
+## Chapter Four &#9755; Press
+
+### September 30 & October 2
+
+Prep: 
+
++ Benjamin Franklin, [*The Autobiography of Benjamin Franklin*](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#II), Chapters 2-7 or in [this edition](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052650001401?auth=SAML) without chapters (read from pg. 14 "From a child I was fond of reading" to pg. 53 "I think this was in or about the year 1729.")
++ Emily Faithfull, ["Women Compositors,"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9007242390001401?auth=SAML) *English Woman's Journal* (1861)
++ (watch) Carl Schlesinger and David Loeb Weiss, ["Farewell etaoin shrdlu"](https://vimeo.com/127605643) (1978)
++ Sarah Werner, ["Finding Women in the Printing Shop"](http://sarahwerner.net/blog/2014/10/finding-women-in-the-printing-shop/) (2014)
+
+### Lab 4 &#8594; Letterpress II: Presswork
+
+-----
+
+## Chapter Five &#9755; Format
+ 
+### October 7 
+
+Prep:
+
++ Jane Austen, Letters to her sister Cassandra (these are in order so you can read down from the first link to the next two letters):
+    + [Friday, January 29](http://www.pemberley.com/janeinfo/auslet22.html#letter124)
+    + [Thursday, February 4](http://www.pemberley.com/janeinfo/auslet22.html#letter125)
+    + [February ?? 1813](http://www.pemberley.com/janeinfo/auslet22.html#letter126)
++ Charles W. Chesnutt, ["Baxter's Procustes"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427057530001401?auth=SAML) (1904)
++ Bonnie Mak, ["Architectures of the Page"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052600001401?auth=SAML) (2011)
+
+### Lab 5 &#8594; Binding
+
+## Chapter Six &#9755; Archive
+
+### October 9 & 16
+
+Prep:
+
++ Ellen Cushman, ["'We're Taking the Genius of Sequoyah into This Century': The Cherokee Syllabary, Peoplehood, and Perseverance"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052620001401?auth=SAML) (2011)
++ James Gleick, "Two Wordbooks" from *The Information* (2011)
++ Lauren J. Young, Daniel Peterschmidt, and Cat Frazier, "File Not Found Series" (2017)
+  + ["Ghosts in The Reels"](https://apps.sciencefriday.com/data/ghosts.html)
+  + ["The Librarians Saving the Internet"](https://apps.sciencefriday.com/data/librarians.html)
+  + ["Data Reawakening"](https://apps.sciencefriday.com/data/reawakening.html)
+
+*Meet in the Northeastern Archives & Special Collections, 92 Snell Library (in the basement) on Wednesday, October 9*
+
+### No class October 14 &#9755; Indigenous Peoples Day
+
+*Meet in the lobby of the Massachusetts Historical Society (1154 Boylston Street) at 3pm on Wednesday, October 16*
+
+### Lab 6 &#8594; Into the Archive
+
+----- 
+
+## Chapter Seven &#9755; Illumination
+
+### October 21 & 23
+
+Prep:
+
++ TBA
++ TBA
+
+### Lab 7 &#8594; Seeing the Text
+
+-----
+
+## Chapter Eight &#9755; Sensation
+
+### October 28
+
+Prep: 
+
++ Octave Uzanne, ["The End of Books"](https://ebooks.adelaide.edu.au/u/uzanne/octave/end/) (1894)
++ (or listen, as you prefer) *99% Invisible*, ["The Universal Page"](https://99percentinvisible.org/episode/the-universal-page/) (2019)
++ read the "About" page and browse the website for Sari Altschuler and David Weimer's [*Touch This Page*](https://touchthispage.com/about-us) project
+
+### Lab 8 &#8594; Across Modalities
+
+----
+
+## Interlude &#9755; Dead Media Posters 
+
+### October 30
+
+-----
+
+## Chapter Nine &#9755; Algorithm
+
+### November 4 & 6
+
+Prep:
+
++ Sydney Padua, [*The Thrilling Adventures of Lovelace and Babbage:  The (Mostly) True Story of the First Computer*](http://amzn.to/2iPqWRY) (2015), beginning-pg. 90, 147-257
+
+### Lab 9 &#8594; Text as Data
+
+-----
+
+## No class November 11 &#9755; Veterans' Day 
+
+-----
+
+## Chapter Ten &#9755; Corpus
+
+### November 13 
+
+Prep:
+
++ Ellen Gruber Garvey, "Introduction" from [*Writing with Scissors*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427057840001401?auth=SAML) (2012)
++ Ryan Cordell and Abby Mullen, ["'Fugitive Verses': The Circulation of Poems in Nineteenth-Century American Newspapers"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733660001401?auth=SAML) (2017). Also Read "Beautiful Snow" and 2 other verses of your choosing from [*Fugitive Verses*](http://fugitiverses.viraltexts.org), looking at the example poems at the example newspaper printing linked at the top of each.
+
+### Lab 10 &#8594; Corpus Analysis
+
+-----
+
+## Chapter Eleven &#9755; Assemblage 
+
+### November 18 & 20
+
+*Meet in the Northeastern Archives & Special Collections, 92 Snell Library (in the basement) on November 18*
+
+Prep:
+
++ Pagan Kennedy, from ‘Zine (1995)
++ Zine Librarians [Code of Ethics](http://zinelibraries.info/wordpress/wp-content/uploads/2015/11/EthicsZine-rev-20151105.pdf) (2015)
++ Amaranth Borsuk, “The Book as Idea” and “The Book as Interface” from *The Book* (2018)
+
+### Lab 11 &#8594; Zine You Around
+
+-----
+
+## Chapter Twelve &#9755; Futures
+
+### November 25
+
+Prep:
+
++ Craig Mod, ["Future Reading"](https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print) (2015)
++ Jon Bois, [“What Football Will Look Like in the Future”](https://www.sbnation.com/a/17776-football/) (2017)
+
+### Lab 12 &#8594; Paper Circuits
+
+-----
+
+## Thanksgiving Break 
+
+### November 27-December 1
+
+----- 
+
+## Chapter Thirteen
+
+### December 2 & 4
+
+Prep:
+
++ Emily St. John Mandel, [*Station Eleven*](http://amzn.to/2hSefIP)
+
+### Presentations &#8594; Unessay Projects 

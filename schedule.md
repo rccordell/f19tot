@@ -240,16 +240,17 @@ Prep:
 
 *Meet in the Northeastern Archives & Special Collections, 92 Snell Library (in the basement) on November 18*
 
+Prep:
+
++ Amaranth Borsuk, “The Book as Idea” and “The Book as Interface” from *The Book* (2018)
+
+### November 20
+
 Prep: 
 
 + Pagan Kennedy, from ‘Zine (1995)
 + Zine Librarians [Code of Ethics](http://zinelibraries.info/wordpress/wp-content/uploads/2015/11/EthicsZine-rev-20151105.pdf) (2015)
 
-### November 20
-
-Prep:
-
-+ Amaranth Borsuk, “The Book as Idea” and “The Book as Interface” from *The Book* (2018)
 
 -----
 
