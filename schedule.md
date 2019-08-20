@@ -93,6 +93,7 @@ Prep:
 Prep:
 
 + William Blake, [*The Marriage of Heaven and Hell*](http://www.blakearchive.org/work/mhh) (1790)
+    + This is a long work and I don't expect you to read all of it. Read close through page/object 10 in one edition (through "Proverbs of Hell") and then compare those first 10 pages with 2-3 additional editions.
 + Joseph Viscomi, [“Illuminated Printing”](http://www.blakearchive.org/exhibit/illuminatedprinting)
 
 ### Lab 5 &#8594; Illuminating the Text
