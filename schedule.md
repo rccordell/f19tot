@@ -147,7 +147,7 @@ Prep:
 + (or listen, as you prefer) *99% Invisible*, ["The Universal Page"](https://99percentinvisible.org/episode/the-universal-page/) (2019)
 + read the "About" page and browse the website for Sari Altschuler and David Weimer's [*Touch This Page*](https://touchthispage.com/about-us) project
 
-### Lab 8 &#8594; Across Modalities
+### Lab 8 &#8594; Multisensory Reading
 
 ----
 
