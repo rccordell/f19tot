@@ -27,7 +27,6 @@ Really, all I *want* to write here can be found in Sonya Huber's [Shadow Syllabu
  
 The majority of our readings will be available online or through the library's Leganto system. We will read a few books, however, which you will need to purchase:
  
-+ James Gleick, [*The Information: A History, A Theory, A Flood*](http://amzn.to/2g3003b), Vintage (2012)
 + Sydney Padua, [*The Thrilling Adventures of Lovelace and Babbage: The \(Mostly\) True Story of the First Computer*](http://amzn.to/2g311sc), Pantheon (2015)
 + Emily St. John Mandel, [*Station Eleven*](http://amzn.to/2AHrUc9), Vintage (2015)
 + Amaranth Borsuk, [*The Book*](https://amzn.to/2Ea7Gvc) (2018)

@@ -48,8 +48,8 @@ Readings:
 Prep: 
 
 + Ælfric, [Preface to his translation of Genesis](https://brandonwhawk.net/2014/07/30/aelfrics-preface-to-genesis-a-translation/) (ca. 990)
-+ Leonardo Flores, ["What is E-Poetry?"](http://iloveepoetry.org/?p=11968) (2015)
 + Annette Vee, “Introduction: Computer Programming as Literacy” from [*Coding Literacy: How Computer Programming is Changing Writing*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052630001401?auth=SAML) (2018)
++ Leonardo Flores, ["Third Generation Electronic Literature"](http://electronicbookreview.com/essay/third-generation-electronic-literature/) (2019)
 
 ### Lab 2 &#8594; Programming Literature 
 
@@ -65,6 +65,7 @@ Prep:
 + (watch) Stephen Fry, [*The Machine That Made Us*](http://www.veoh.com/watch/v18714625RMJnrG8x) (2009); *note: this video is about 1 hour long; plan accordingly!*
 + Marcy J. Dinius, ["'Look!! Look!!! at This!!!!': The Radical Typography of David Walker’s Appeal"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427055560001401?auth=SAML) (2011)
 + Chris Gayomali, ["How Typeface Influences the Way We Read and Think"](http://theweek.com/articles/463196/how-typeface-influences-way-read-think) (2013)
++ Sarah Werner, ["Finding Women in the Printing Shop"](http://sarahwerner.net/blog/2014/10/finding-women-in-the-printing-shop/) (2014)
 
 ### Lab 3 &#8594; Letterpress I: Composition
 
@@ -79,26 +80,22 @@ Prep:
 + Benjamin Franklin, [*The Autobiography of Benjamin Franklin*](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#II), Chapters 2-7 or in [this edition](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052650001401?auth=SAML) without chapters (read from pg. 14 "From a child I was fond of reading" to pg. 53 "I think this was in or about the year 1729.")
 + Emily Faithfull, ["Women Compositors,"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9007242390001401?auth=SAML) *English Woman's Journal* (1861)
 + (watch) Carl Schlesinger and David Loeb Weiss, ["Farewell etaoin shrdlu"](https://vimeo.com/127605643) (1978)
-+ Sarah Werner, ["Finding Women in the Printing Shop"](http://sarahwerner.net/blog/2014/10/finding-women-in-the-printing-shop/) (2014)
++ James Gleick, "Two Wordbooks" from *The Information* (2011)
 
 ### Lab 4 &#8594; Letterpress II: Presswork
 
 -----
 
-## Chapter Five &#9755; Format
- 
+## Chapter Five &#9755; Image
+
 ### October 7 
 
 Prep:
 
-+ Jane Austen, Letters to her sister Cassandra (these are in order so you can read down from the first link to the next two letters):
-    + [Friday, January 29](http://www.pemberley.com/janeinfo/auslet22.html#letter124)
-    + [Thursday, February 4](http://www.pemberley.com/janeinfo/auslet22.html#letter125)
-    + [February ?? 1813](http://www.pemberley.com/janeinfo/auslet22.html#letter126)
-+ Charles W. Chesnutt, ["Baxter's Procustes"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427057530001401?auth=SAML) (1904)
-+ Bonnie Mak, ["Architectures of the Page"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052600001401?auth=SAML) (2011)
++ William Blake, [*The Marriage of Heaven and Hell*](http://www.blakearchive.org/work/mhh) (1790)
++ Joseph Viscomi, [“Illuminated Printing”](http://www.blakearchive.org/exhibit/illuminatedprinting)
 
-### Lab 5 &#8594; Binding
+### Lab 5 &#8594; Illuminating the Text
 
 ## Chapter Six &#9755; Archive
 
@@ -107,7 +104,7 @@ Prep:
 Prep:
 
 + Ellen Cushman, ["'We're Taking the Genius of Sequoyah into This Century': The Cherokee Syllabary, Peoplehood, and Perseverance"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052620001401?auth=SAML) (2011)
-+ James Gleick, "Two Wordbooks" from *The Information* (2011)
++ Bonnie Mak, ["Architectures of the Page"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052600001401?auth=SAML) (2011)
 + Lauren J. Young, Daniel Peterschmidt, and Cat Frazier, "File Not Found Series" (2017)
   + ["Ghosts in The Reels"](https://apps.sciencefriday.com/data/ghosts.html)
   + ["The Librarians Saving the Internet"](https://apps.sciencefriday.com/data/librarians.html)
@@ -123,22 +120,26 @@ Prep:
 
 ----- 
 
-## Chapter Seven &#9755; Illumination
+## Chapter Seven &#9755; Format
 
-### October 21 & 23
+### October 21
 
 Prep:
 
-+ TBA
-+ TBA
++ Jane Austen, Letters to her sister Cassandra (these are in order so you can read down from the first link to the next two letters):
+    + [Friday, January 29](http://www.pemberley.com/janeinfo/auslet22.html#letter124)
+    + [Thursday, February 4](http://www.pemberley.com/janeinfo/auslet22.html#letter125)
+    + [February ?? 1813](http://www.pemberley.com/janeinfo/auslet22.html#letter126)
++ Charles W. Chesnutt, ["Baxter's Procustes"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427057530001401?auth=SAML) (1904)
++ Ken Liu, ["The Bookmaking Habits of Select Species"](http://www.lightspeedmagazine.com/fiction/the-bookmaking-habits-of-select-species/) (2012)
 
-### Lab 7 &#8594; Seeing the Text
+### Lab 7 &#8594; Book Binding
 
 -----
 
 ## Chapter Eight &#9755; Sensation
 
-### October 28
+### October 23 & 28
 
 Prep: 
 
@@ -178,8 +179,9 @@ Prep:
 
 Prep:
 
-+ Ellen Gruber Garvey, "Introduction" from [*Writing with Scissors*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427057840001401?auth=SAML) (2012)
 + Ryan Cordell and Abby Mullen, ["'Fugitive Verses': The Circulation of Poems in Nineteenth-Century American Newspapers"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733660001401?auth=SAML) (2017). Also Read "Beautiful Snow" and 2 other verses of your choosing from [*Fugitive Verses*](http://fugitiverses.viraltexts.org), looking at the example poems at the example newspaper printing linked at the top of each.
++ Catherine D'Ignazio and Lauren Klein, ["What Gets Counted Counts"](https://bookbook.pubpub.org/pub/rykaknh1?readingCollection=09555901) from *Data Feminism* (2018)
+
 
 ### Lab 10 &#8594; Corpus Analysis
 
