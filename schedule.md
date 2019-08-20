@@ -20,7 +20,7 @@ The majority of our readings will be available online or through [a digital cour
 
 ### September 4
 
-Readings (together):
+Prep (together):
 
 + Marshall McLuhan, ["The Medium is the Message"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006734890001401?auth=SAML) (1964)
 
@@ -30,7 +30,7 @@ Readings (together):
 
 ### September 9 & 11
 
-Readings: 
+Prep: 
 
 + Plato, [selection from *Phaedrus*](https://www.units.miamioh.edu/technologyandhumanities/plato.htm)
 + Lisa Gitelman, "Introduction: Media as Historical Subjects," from [*Always Already New: Media, History, and the Data of Culture*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052590001401?auth=SAML) (2006)
@@ -203,7 +203,7 @@ Prep:
 
 -----
 
-## Chapter Twelve &#9755; Futures
+## Chapter Twelve &#9755; Circuit
 
 ### November 25
 
@@ -212,7 +212,7 @@ Prep:
 + Craig Mod, ["Future Reading"](https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print) (2015)
 + Jon Bois, [“What Football Will Look Like in the Future”](https://www.sbnation.com/a/17776-football/) (2017)
 
-### Lab 12 &#8594; Paper Circuits
+### Lab 12 &#8594; Electronic Literature
 
 -----
 
@@ -222,7 +222,7 @@ Prep:
 
 ----- 
 
-## Chapter Thirteen
+## Chapter Thirteen &#9755; Memory
 
 ### December 2 & 4
 
