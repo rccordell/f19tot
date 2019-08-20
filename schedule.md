@@ -34,7 +34,7 @@ Prep:
 
 + Plato, [selection from *Phaedrus*](https://www.units.miamioh.edu/technologyandhumanities/plato.htm)
 + Lisa Gitelman, "Introduction: Media as Historical Subjects," from [*Always Already New: Media, History, and the Data of Culture*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052590001401?auth=SAML) (2006)
-+ James Gleick, "Drums that Talk" from *The Information* (2011)
++ James Gleick, ["Drums that Talk"](https://pen.org/drums-that-talk/) (2012)
 + Amaranth Borsuk, “The Book as Content” from *The Book* (2018)
 
 ### Lab 1 &#8594; Mark(it all)down 
