@@ -33,17 +33,18 @@ To fulfill **any** grade contract a student must do the following, which should 
 
 1. Come to class prepared to discuss any assigned readings, videos, or other media. Participate actively in class activities and discussions, making observations and asking questions that help the class think together. 
 2. Meet with me in person—during office hours or another scheduled time—at least once around midterm—roughly between weeks 5-8—to ensure you are on-track to meet your contract requirements, discuss any questions or concerns you have about the course or your progress, and decide on any necessary contract amendments.
-3. Revise contractual assignments as necessary until both you and I consider them "Satisfactory."
-4. Complete a final self-assessment demonstrating that your work has met the agreed requirements, submitting it to Professor Cordell by 5pm on Monday, December 9.
+3. Contribute significantly to a detailed, inventive Dead Media Poster presentation on October 30th.
+4. Revise contractual assignments as necessary until both you and I consider them "Satisfactory."
+5. Complete a final self-assessment demonstrating that your work has met the agreed requirements, submitting it to Professor Cordell by 5pm on Monday, December 9.
 
 ### "A" Contract
 
 To contract for an "A" in this course, you agree to:
  
-1. Earn “Satisfactory” on all class preparation assignments (reading responses and writing-in-progress drafts) save two, meaning you could miss up to two classes, earn “Unsatisfactory” on up to two class preparation submissions, or some combination of these conditions.
-2. Take no more than one information overload day during the semester. 
-3. Exceed expectations regarding in-class device according to the [policies outlined in the device use rubric](/policies/). 
-4. Contribute significantly to a detailed, inventive Dead Media Poster presentation on October 30th.
+1. Earn “Satisfactory” on all class preparation assignments save two.
+2. Miss no more than two classes.
+3. Take no more than one information overload day during the semester. 
+4. Exceed expectations regarding in-class device according to the [policies outlined in the device use rubric](/policies/). 
 5. Write at least 10 "Satisfactory" lab reports over the course of the semester. As specified in the assignment, lab reports are due within one week of the pertinent laboratory activity.
 6. Complete two "Satisfactory" Unessays on a schedule you will specify in your contract and present the strongest in class on December 4.
 
@@ -51,10 +52,10 @@ To contract for an "A" in this course, you agree to:
 
 To contract for an "B" in this course, you agree to:
 
-1. Earn “Satisfactory” on all class preparation assignments (reading responses and writing-in-progress drafts) save three, meaning you could miss up to three classes, earn “Unsatisfactory” on up to three class preparation submissions, or some combination of these conditions.
-2. Take no more than two information overload days during the semester. 
-3. Fully meet expectations expectations regarding in-class device according to the [policies outlined in the device use rubric](/policies/).
-4. Contribute significantly to a detailed, inventive Dead Media Poster presentation on October 30th.
+1. Earn “Satisfactory” on all class preparation assignments save three.
+2. Miss no more than three classes.
+3. Take no more than one information overload day during the semester. 
+4. Fully meet expectations expectations regarding in-class device according to the [policies outlined in the device use rubric](/policies/).
 5. Write at least 8 "Satisfactory" lab reports over the course of the semester. As specified in the assignment, lab reports are due within one week of the pertinent laboratory activity.
 6. Complete one "Satisfactory" Unessay on a schedule you will specify in your contract and present it in class on December 4.
 
@@ -62,10 +63,10 @@ To contract for an "B" in this course, you agree to:
 
 To contract for an "C" in this course, you agree to:
 
-1. Earn “Satisfactory” on all class preparation assignments (reading responses and writing-in-progress drafts) save four, meaning you could miss up to four classes, earn “Unsatisfactory” on up to four class preparation submissions, or some combination of these conditions.
-2. Take no more than three information overload days during the semester. 
-3. Generally meet expectation regarding in-class device according to the [policies outlined in the device use rubric](/policies/). 
-4. Contribute to a satisfactory Dead Media Poster presentation on October 30th.
+1. Earn “Satisfactory” on all class preparation assignments save four.
+2. Miss no more than three classes.
+3. Take no more than two information overload days during the semester. 
+4. Generally meet expectation regarding in-class device according to the [policies outlined in the device use rubric](/policies/). 
 5. Write at least 6 "Satisfactory" lab reports over the course of the semester. As specified in the assignment, lab reports are due within one week of the pertinent laboratory activity.
 6. Complete one "Satisfactory" Unessay on a schedule you will specify in your contract, which you may choose to present or not in class on December 4.
 
