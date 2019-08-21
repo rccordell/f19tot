@@ -46,13 +46,3 @@ Your lab reports should constitute a developing record of your thinking about ou
 Lab report entries are due within one week of the lab session. If a particular lab session extends through multiple classes, its report is due within one week of the final classroom session devoted to it. You may not wait until late in the semester to complete lab reports for activities earlier in the semester, and I will check your repositories periodically to ensure you are working steadily. The coding labs, in particular, will build on each other and you will find it difficult to complete reports for later coding labs if you do not complete earlier ones. 
 
 I regularly assign ongoing assignments in my classes and every semester I strongly urge students to start working early in order to complete the work. Each semester at least a few students ignore this urging, usually to their later dismay. Complications will almost certainly arise during the semester, and if you put off starting your lab reports you will struggle to earn full credit on this assignment. 
-
-### Why Markdown?
-
-I am asking you to write in Markdown for two primary reasons: 
-
-1. Markdown makes it very easy to weave together code and prose, which I see as a necessity for a class that wants to think humanistically about code. 
-
-2. Markdown itself will help us think about text and remediation in a very direct way. Writing outside of a GUI (Graphical User Interface) like Word will challenge use to think about the structure of our texts and how that structure translates among different media. I don't want to pretend like the plain text of Markdown is somehow less mediated than a GUI; Markdown is an interface just like Word is an interface. But I suspect it is an unfamiliar interface for many of you, which will prompt you to think about how interface shapes our interactions with text. 
-
-3. Markdown is flexible. A single Markdown document can be instantly translated through a program like [Pandoc](http://pandoc.org/) into HTML, DOCX, PDF or a range of other formats, and we can use these transformations to think through the affordances and limitations of those formats for contemporary writing.
