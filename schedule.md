@@ -86,6 +86,16 @@ Prep:
 
 -----
 
+-----
+
+### October 3
+
+### Extra-Credit Lab &#8594; Dragon Prayer Book 
+
+*Participate in the Dragon Prayer Book Exhibit kick-off workshop with Professor Erika Boeckeler in Snell Library, 11am-1pm, and write it up in the standard lab report format.*
+
+-----
+
 ## Chapter Five &#9755; Image
 
 ### October 7 
@@ -145,6 +155,7 @@ Prep:
 Prep: 
 
 + Octave Uzanne, ["The End of Books"](https://ebooks.adelaide.edu.au/u/uzanne/octave/end/) (1894)
++ Sara Hendren, ["All Technology Is Assistive: Six Design Rules on Disability"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/b22b7f2d-f386-4ec5-bcee-30591c0078ba#ch15) (2017)
 + (or listen, as you prefer) *99% Invisible*, ["The Universal Page"](https://99percentinvisible.org/episode/the-universal-page/) (2019)
 + read the "About" page and browse the website for Sari Altschuler and David Weimer's [*Touch This Page*](https://touchthispage.com/about-us) project
 
