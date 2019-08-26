@@ -32,9 +32,8 @@ Prep (together):
 
 Prep: 
 
-+ Plato, [selection from *Phaedrus*](https://www.units.miamioh.edu/technologyandhumanities/plato.htm)
++ Plato, [selection from *Phaedrus*](https://www.units.miamioh.edu/technologyandhumanities/plato.htm) (~370 BCE)
 + Lisa Gitelman, "Introduction: Media as Historical Subjects," from [*Always Already New: Media, History, and the Data of Culture*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052590001401?auth=SAML) (2006)
-+ James Gleick, ["Drums that Talk"](https://pen.org/drums-that-talk/) (2012)
 + Amaranth Borsuk, “The Book as Content” from *The Book* (2018)
 
 ### Lab 1 &#8594; Mark(it all)down 
@@ -48,8 +47,10 @@ Prep:
 Prep: 
 
 + Ælfric, [Preface to his translation of Genesis](https://brandonwhawk.net/2014/07/30/aelfrics-preface-to-genesis-a-translation/) (ca. 990)
++ Octavia Bulter, ["Speech Sounds"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9484553540001401?auth=SAML) (1983)
++ James Gleick, ["Drums that Talk"](https://pen.org/drums-that-talk/) (2012)
 + Annette Vee, “Introduction: Computer Programming as Literacy” from [*Coding Literacy: How Computer Programming is Changing Writing*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052630001401?auth=SAML) (2018)
-+ Leonardo Flores, ["Third Generation Electronic Literature"](http://electronicbookreview.com/essay/third-generation-electronic-literature/) (2019)
+
 
 ### Lab 2 &#8594; Programming Literature 
 
@@ -80,7 +81,7 @@ Prep:
 + Benjamin Franklin, [*The Autobiography of Benjamin Franklin*](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#II), Chapters 2-7 or in [this edition](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052650001401?auth=SAML) without chapters (read from pg. 14 "From a child I was fond of reading" to pg. 53 "I think this was in or about the year 1729.")
 + Emily Faithfull, ["Women Compositors,"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9007242390001401?auth=SAML) *English Woman's Journal* (1861)
 + (watch) Carl Schlesinger and David Loeb Weiss, ["Farewell etaoin shrdlu"](https://vimeo.com/127605643) (1978)
-+ James Gleick, "Two Wordbooks" from *The Information* (2011)
++ James Gleick, ["Two Wordbooks"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9484557160001401?auth=SAML) from *The Information* (2011)
 
 ### Lab 4 &#8594; Letterpress II: Presswork
 
@@ -209,6 +210,7 @@ Prep:
 
 + Pagan Kennedy, from ‘Zine (1995)
 + Zine Librarians [Code of Ethics](http://zinelibraries.info/wordpress/wp-content/uploads/2015/11/EthicsZine-rev-20151105.pdf) (2015)
++ Erin Dorney, ["6 Styles of Erasure Poetry"](https://trishhopkinson.com/2018/06/10/6-styles-of-erasure-poetry-guest-blog-post-by-erin-dorney/)
 + Amaranth Borsuk, “The Book as Idea” and “The Book as Interface” from *The Book* (2018)
 
 ### Lab 11 &#8594; Zine You Around

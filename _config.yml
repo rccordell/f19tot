@@ -28,7 +28,7 @@ navbar-links:
   Schedule: "schedule"
   Assignments: 
     - Overview and Grading: "assignments"
-    - In-Class Work: "assignments/in-class"
+    - Reading Prep: "assignments/reading-prep"
     - Lab Reports: "assignments/lab-reports"
     - Dead Media Poster: "assignments/dead-media"
     - Unessay: "assignments/unessay"
