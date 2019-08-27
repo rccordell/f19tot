@@ -34,6 +34,7 @@ Prep:
 
 + Plato, [selection from *Phaedrus*](https://www.units.miamioh.edu/technologyandhumanities/plato.htm) (~370 BCE)
 + Lisa Gitelman, "Introduction: Media as Historical Subjects," from [*Always Already New: Media, History, and the Data of Culture*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052590001401?auth=SAML) (2006)
++ Ken Liu, ["The Bookmaking Habits of Select Species"](http://www.lightspeedmagazine.com/fiction/the-bookmaking-habits-of-select-species/) (2012)
 + Amaranth Borsuk, “The Book as Content” from *The Book* (2018)
 
 ### Lab 1 &#8594; Mark(it all)down 
@@ -143,7 +144,8 @@ Prep:
     + [Thursday, February 4](http://www.pemberley.com/janeinfo/auslet22.html#letter125)
     + [February ?? 1813](http://www.pemberley.com/janeinfo/auslet22.html#letter126)
 + Charles W. Chesnutt, ["Baxter's Procustes"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427057530001401?auth=SAML) (1904)
-+ Ken Liu, ["The Bookmaking Habits of Select Species"](http://www.lightspeedmagazine.com/fiction/the-bookmaking-habits-of-select-species/) (2012)
++ Leah Price, from *What We Talk About When We Talk About Books* (2019)
+
 
 ### Lab 7 &#8594; Book Binding
 
