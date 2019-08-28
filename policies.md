@@ -30,6 +30,7 @@ The majority of our readings will be available online or through the library's L
 + Sydney Padua, [*The Thrilling Adventures of Lovelace and Babbage: The \(Mostly\) True Story of the First Computer*](http://amzn.to/2g311sc), Pantheon (2015)
 + Emily St. John Mandel, [*Station Eleven*](http://amzn.to/2AHrUc9), Vintage (2015)
 + Amaranth Borsuk, [*The Book*](https://amzn.to/2Ea7Gvc) (2018)
++ Leah Price, *What We Talk About When We Talk About Books* (2019)
 
 -----
  
