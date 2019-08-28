@@ -35,7 +35,7 @@ Prep:
 + Plato, [selection from *Phaedrus*](https://www.units.miamioh.edu/technologyandhumanities/plato.htm) (~370 BCE)
 + Lisa Gitelman, "Introduction: Media as Historical Subjects," from [*Always Already New: Media, History, and the Data of Culture*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052590001401?auth=SAML) (2006)
 + Ken Liu, ["The Bookmaking Habits of Select Species"](http://www.lightspeedmagazine.com/fiction/the-bookmaking-habits-of-select-species/) (2012)
-+ Amaranth Borsuk, “The Book as Content” from *The Book* (2018)
++ Leah Price, "Introduction" and "Reading Over Shoulders" from *What We Talk About When We Talk About Books* (2019)
 
 ### Lab 1 &#8594; Mark(it all)down 
 
@@ -64,10 +64,11 @@ Prep:
 Prep:
 
 + Excerpts from Johannes Trithemius, [*In Praise of Scribes*](http://misc.yarinareth.net/trithemius.html) (1492)
-+ (watch) Stephen Fry, [*The Machine That Made Us*](http://www.veoh.com/watch/v18714625RMJnrG8x) (2009); *note: this video is about 1 hour long; plan accordingly!*
++ Amaranth Borsuk, “The Book as Content” from *The Book* (2018)
 + Marcy J. Dinius, ["'Look!! Look!!! at This!!!!': The Radical Typography of David Walker’s Appeal"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427055560001401?auth=SAML) (2011)
 + Chris Gayomali, ["How Typeface Influences the Way We Read and Think"](http://theweek.com/articles/463196/how-typeface-influences-way-read-think) (2013)
 + Sarah Werner, ["Finding Women in the Printing Shop"](http://sarahwerner.net/blog/2014/10/finding-women-in-the-printing-shop/) (2014)
++ **Optional, but delightful** (watch) Stephen Fry, [*The Machine That Made Us*](http://www.veoh.com/watch/v18714625RMJnrG8x) (2009); *note: this video is about 1 hour long; plan accordingly!*
 
 ### Lab 3 &#8594; Letterpress I: Composition
 
@@ -81,8 +82,8 @@ Prep:
 
 + Benjamin Franklin, [*The Autobiography of Benjamin Franklin*](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#II), Chapters 2-7 or in [this edition](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052650001401?auth=SAML) without chapters (read from pg. 14 "From a child I was fond of reading" to pg. 53 "I think this was in or about the year 1729.")
 + Emily Faithfull, ["Women Compositors,"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9007242390001401?auth=SAML) *English Woman's Journal* (1861)
-+ (watch) Carl Schlesinger and David Loeb Weiss, ["Farewell etaoin shrdlu"](https://vimeo.com/127605643) (1978)
 + James Gleick, ["Two Wordbooks"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9484557160001401?auth=SAML) from *The Information* (2011)
++ Leah Price, "The Real Life of Books" from *What We Talk About When We Talk About Books* (2019)
 
 ### Lab 4 &#8594; Letterpress II: Presswork
 
@@ -107,6 +108,7 @@ Prep:
 + William Blake, [*The Marriage of Heaven and Hell*](http://www.blakearchive.org/work/mhh) (1790)
     + This is a long work and I don't expect you to read all of it. Read close through page/object 10 in one edition (through "Proverbs of Hell") and then compare those first 10 pages with 2-3 additional editions.
 + Joseph Viscomi, [“Illuminated Printing”](http://www.blakearchive.org/exhibit/illuminatedprinting)
++ Amaranth Borsuk, “The Book as Idea” from *The Book* (2018)
 
 ### Lab 5 &#8594; Illuminating the Text
 
@@ -118,10 +120,7 @@ Prep:
 
 + Ellen Cushman, ["'We're Taking the Genius of Sequoyah into This Century': The Cherokee Syllabary, Peoplehood, and Perseverance"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052620001401?auth=SAML) (2011)
 + Bonnie Mak, ["Architectures of the Page"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052600001401?auth=SAML) (2011)
-+ Lauren J. Young, Daniel Peterschmidt, and Cat Frazier, "File Not Found Series" (2017)
-  + ["Ghosts in The Reels"](https://apps.sciencefriday.com/data/ghosts.html)
-  + ["The Librarians Saving the Internet"](https://apps.sciencefriday.com/data/librarians.html)
-  + ["Data Reawakening"](https://apps.sciencefriday.com/data/reawakening.html)
++ Leah Price, "Reading on the Move" and "Prescribed Reading" from *What We Talk About When We Talk About Books* (2019)
 
 *Meet in the Northeastern Archives & Special Collections, 92 Snell Library (in the basement) on Wednesday, October 9*
 
@@ -144,7 +143,7 @@ Prep:
     + [Thursday, February 4](http://www.pemberley.com/janeinfo/auslet22.html#letter125)
     + [February ?? 1813](http://www.pemberley.com/janeinfo/auslet22.html#letter126)
 + Charles W. Chesnutt, ["Baxter's Procustes"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427057530001401?auth=SAML) (1904)
-+ Leah Price, from *What We Talk About When We Talk About Books* (2019)
++ Leah Price, "Interleaf: Please Lay Flat" from *What We Talk About When We Talk About Books* (2019)
 
 
 ### Lab 7 &#8594; Book Binding
@@ -213,7 +212,7 @@ Prep:
 + Pagan Kennedy, from ‘Zine (1995)
 + Zine Librarians [Code of Ethics](http://zinelibraries.info/wordpress/wp-content/uploads/2015/11/EthicsZine-rev-20151105.pdf) (2015)
 + Erin Dorney, ["6 Styles of Erasure Poetry"](https://trishhopkinson.com/2018/06/10/6-styles-of-erasure-poetry-guest-blog-post-by-erin-dorney/)
-+ Amaranth Borsuk, “The Book as Idea” and “The Book as Interface” from *The Book* (2018)
++ Amaranth Borsuk, “The Book as Interface” from *The Book* (2018)
 
 ### Lab 11 &#8594; Zine You Around
 
