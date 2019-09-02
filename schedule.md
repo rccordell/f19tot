@@ -33,7 +33,7 @@ Prep (together):
 Prep: 
 
 + Plato, [selection from *Phaedrus*](https://www.units.miamioh.edu/technologyandhumanities/plato.htm) (~370 BCE)
-+ Lisa Gitelman, "Introduction: Media as Historical Subjects," from [*Always Already New: Media, History, and the Data of Culture*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052590001401?auth=SAML) (2006)
++ Lisa Gitelman, "Introduction: Media as Historical Subjects," from [*Always Already New: Media, History, and the Data of Culture*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052590001401?auth=SAML), read from pg. 1 to the break on pg. 12 (2006)
 + Ken Liu, ["The Bookmaking Habits of Select Species"](http://www.lightspeedmagazine.com/fiction/the-bookmaking-habits-of-select-species/) (2012)
 + Leah Price, "Introduction" and "Reading Over Shoulders" from *What We Talk About When We Talk About Books* (2019)
 
@@ -65,7 +65,6 @@ Prep:
 
 + Excerpts from Johannes Trithemius, [*In Praise of Scribes*](http://misc.yarinareth.net/trithemius.html) (1492)
 + Amaranth Borsuk, “The Book as Content” from *The Book* (2018)
-+ Marcy J. Dinius, ["'Look!! Look!!! at This!!!!': The Radical Typography of David Walker’s Appeal"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427055560001401?auth=SAML) (2011)
 + Chris Gayomali, ["How Typeface Influences the Way We Read and Think"](http://theweek.com/articles/463196/how-typeface-influences-way-read-think) (2013)
 + Sarah Werner, ["Finding Women in the Printing Shop"](http://sarahwerner.net/blog/2014/10/finding-women-in-the-printing-shop/) (2014)
 + **Optional, but delightful** (watch) Stephen Fry, [*The Machine That Made Us*](http://www.veoh.com/watch/v18714625RMJnrG8x) (2009); *note: this video is about 1 hour long; plan accordingly!*
@@ -80,9 +79,8 @@ Prep:
 
 Prep: 
 
-+ Benjamin Franklin, [*The Autobiography of Benjamin Franklin*](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#II), Chapters 2-7 or in [this edition](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052650001401?auth=SAML) without chapters (read from pg. 14 "From a child I was fond of reading" to pg. 53 "I think this was in or about the year 1729.")
 + Emily Faithfull, ["Women Compositors,"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9007242390001401?auth=SAML) *English Woman's Journal* (1861)
-+ James Gleick, ["Two Wordbooks"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9484557160001401?auth=SAML) from *The Information* (2011)
++ Marcy J. Dinius, ["'Look!! Look!!! at This!!!!': The Radical Typography of David Walker’s Appeal"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427055560001401?auth=SAML) (2011)
 + Leah Price, "The Real Life of Books" from *What We Talk About When We Talk About Books* (2019)
 
 ### Lab 4 &#8594; Letterpress II: Presswork
@@ -120,7 +118,7 @@ Prep:
 
 + Ellen Cushman, ["'We're Taking the Genius of Sequoyah into This Century': The Cherokee Syllabary, Peoplehood, and Perseverance"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052620001401?auth=SAML) (2011)
 + Bonnie Mak, ["Architectures of the Page"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052600001401?auth=SAML) (2011)
-+ Leah Price, "Reading on the Move" and "Prescribed Reading" from *What We Talk About When We Talk About Books* (2019)
++ James Gleick, ["Two Wordbooks"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9484557160001401?auth=SAML) from *The Information* (2011)
 
 *Meet in the Northeastern Archives & Special Collections, 92 Snell Library (in the basement) on Wednesday, October 9*
 
@@ -143,7 +141,7 @@ Prep:
     + [Thursday, February 4](http://www.pemberley.com/janeinfo/auslet22.html#letter125)
     + [February ?? 1813](http://www.pemberley.com/janeinfo/auslet22.html#letter126)
 + Charles W. Chesnutt, ["Baxter's Procustes"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427057530001401?auth=SAML) (1904)
-+ Leah Price, "Interleaf: Please Lay Flat" from *What We Talk About When We Talk About Books* (2019)
++ Leah Price, "Reading on the Move," "Interleaf: Please Lay Flat," and "Prescribed Reading" from *What We Talk About When We Talk About Books* (2019)
 
 
 ### Lab 7 &#8594; Book Binding
