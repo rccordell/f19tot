@@ -64,10 +64,10 @@ Prep:
 Prep:
 
 + Excerpts from Johannes Trithemius, [*In Praise of Scribes*](http://misc.yarinareth.net/trithemius.html) (1492)
-+ Amaranth Borsuk, “The Book as Content” from *The Book* (2018)
++ (watch) Stephen Fry, [*The Machine That Made Us*](http://www.veoh.com/watch/v18714625RMJnrG8x) (2009); *note: this video is about 1 hour long; plan accordingly!*
 + Chris Gayomali, ["How Typeface Influences the Way We Read and Think"](http://theweek.com/articles/463196/how-typeface-influences-way-read-think) (2013)
 + Sarah Werner, ["Finding Women in the Printing Shop"](http://sarahwerner.net/blog/2014/10/finding-women-in-the-printing-shop/) (2014)
-+ **Optional, but delightful** (watch) Stephen Fry, [*The Machine That Made Us*](http://www.veoh.com/watch/v18714625RMJnrG8x) (2009); *note: this video is about 1 hour long; plan accordingly!*
++ Amaranth Borsuk, “The Book as Content” from *The Book* (2018)
 
 ### Lab 3 &#8594; Letterpress I: Composition
 
@@ -104,7 +104,7 @@ Prep:
 Prep:
 
 + William Blake, [*The Marriage of Heaven and Hell*](http://www.blakearchive.org/work/mhh) (1790)
-    + This is a long work and I don't expect you to read all of it. Read close through page/object 10 in one edition (through "Proverbs of Hell") and then compare those first 10 pages with 2-3 additional editions.
+    + This is a long work and I don't expect you to read all of it. Read closely through page/object 10 in one edition (through "Proverbs of Hell") and then compare those first 10 pages with 2 additional editions.
 + Joseph Viscomi, [“Illuminated Printing”](http://www.blakearchive.org/exhibit/illuminatedprinting)
 + Amaranth Borsuk, “The Book as Idea” from *The Book* (2018)
 
