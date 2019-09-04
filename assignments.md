@@ -45,7 +45,7 @@ To contract for an "A" in this course, you agree to:
 2. Miss no more than two classes.
 3. Take no more than one information overload day during the semester. 
 4. Exceed expectations regarding in-class device according to the [policies outlined in the device use rubric](/policies/). 
-5. Write at least 10 "Satisfactory" lab reports over the course of the semester. As specified in the assignment, lab reports are due within one week of the pertinent laboratory activity.
+5. Write at least nine "Satisfactory" lab reports over the course of the semester. As specified in the assignment, lab reports are due within one week of the pertinent laboratory activity.
 6. Complete two "Satisfactory" Unessays on a schedule you will specify in your contract and present the strongest in class on December 4.
 
 ### "B" Contract
@@ -56,7 +56,7 @@ To contract for an "B" in this course, you agree to:
 2. Miss no more than three classes.
 3. Take no more than one information overload day during the semester. 
 4. Fully meet expectations expectations regarding in-class device according to the [policies outlined in the device use rubric](/policies/).
-5. Write at least 8 "Satisfactory" lab reports over the course of the semester. As specified in the assignment, lab reports are due within one week of the pertinent laboratory activity.
+5. Write at least eight "Satisfactory" lab reports over the course of the semester. As specified in the assignment, lab reports are due within one week of the pertinent laboratory activity.
 6. Complete one "Satisfactory" Unessay on a schedule you will specify in your contract and present it in class on December 4.
 
 ### "C" Contract
@@ -67,7 +67,7 @@ To contract for an "C" in this course, you agree to:
 2. Miss no more than three classes.
 3. Take no more than two information overload days during the semester. 
 4. Generally meet expectation regarding in-class device according to the [policies outlined in the device use rubric](/policies/). 
-5. Write at least 6 "Satisfactory" lab reports over the course of the semester. As specified in the assignment, lab reports are due within one week of the pertinent laboratory activity.
+5. Write at least six "Satisfactory" lab reports over the course of the semester. As specified in the assignment, lab reports are due within one week of the pertinent laboratory activity.
 6. Complete one "Satisfactory" Unessay on a schedule you will specify in your contract, which you may choose to present or not in class on December 4.
 
 ### "D" and "F" Grades

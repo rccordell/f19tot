@@ -146,4 +146,9 @@ If you have any questions about what constitutes academic integrity in this clas
 
 # Writing Center
 
-The Northeastern University Writing Center is located in 412 Holmes Hall and in Snell Library (for current hours call 617-373-4549 or see [http://www.northeastern.edu/english/writing-center/](http://www.northeastern.edu/english/writing-center/)) and offers free and friendly help for any level writer, including help with reading complex texts, conceptualizing a writing project, refining your writing process (i.e., planning, researching, organization, drafting, revising, and editing), and using sources effectively. You can receive feedback face-to-face during regular hours or via email/online response. I strongly recommend that you make appointments to go over drafts of your work—including your digital work—before turning it in. Questions about the Writing Center can be directed to [neuwritingcenter@gmail.com](mailto:neuwritingcenter@gmail.com).
+The Northeastern University Writing Center is located in 412 Holmes Hall and in Snell Library.
+
++ Writing Center Phone:617-373-4549
++ Writing Center URL: <http://www.northeastern.edu/english/writing-center/>
+
+The Writing Center offers free and friendly help for any level writer, including help with reading complex texts, conceptualizing a writing project, refining your writing process (i.e., planning, researching, organization, drafting, revising, and editing), and using sources effectively. You can receive feedback face-to-face during regular hours or via email/online response. I strongly recommend that you make appointments to go over drafts of your work—including your digital work—before turning it in. Questions about the Writing Center can be directed to [neuwritingcenter@gmail.com](mailto:neuwritingcenter@gmail.com).

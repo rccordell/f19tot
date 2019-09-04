@@ -6,9 +6,9 @@ bigimg: /img/14934283002_9663bae608_k-banner.jpg
 
 ## Assignment Overview:
 
-+ A growing portfolio of documents, composed in [MultiMarkdown](http://fletcherpenney.net/multimarkdown/) and committed to a [Github Classroom repository](https://classroom.github.com/a/wiicl2x4)
++ + A growing portfolio of documents, composed in [MultiMarkdown](http://fletcherpenney.net/multimarkdown/) and committed to the `lab-report` folder of a [Github Classroom repository](https://classroom.github.com/a/SnpUFxYd)
 + Students work individually
-+ Entries due 1 week after the final session of a given lab
++ Reports due one week after the final session of a given lab
 + Some stellar entries will be posted as examples on the course website
 
 ## Details:
@@ -17,9 +17,9 @@ Technologies of Text is an experiential course organized around a series of "hum
 
 To help accomplish this goal, you will submit regular lab reports, which will constitute your central scholarly activity throughout this semester. Your entries will follow a template (which we will learn to access in the first lab in class) and include a mix of description, analysis, code, figures, or images. This ongoing assignment will give you the chance to organize the diverse tasks of the class' experiential work, practice the skills introduced in the labs, bring your experiential work into conversation with class readings and personal research, and experiment with ideas that will be further developed in your [Unessay projects](/assignments/unessay). 
 
-## Lab Report Entries
+## Lab Reports
 
-Your lab reports will be composed using [a regular template](https://github.com/technologies-of-text/lab-reports/blob/master/2019-MM-DD-LabReport-LABNAME.md), which we will discuss on day two of class, 
+Your lab reports will be composed using [a regular template](https://raw.githubusercontent.com/prof-cordell-classes/ToT-templates/master/lab-reports/2019-MM-DD-LabReport-LABNAME.md), which we will discuss on day two of class, 
 
 You can look at the template to see how these reports will be organized, but as an overview there are a few elements I will expect to find in each lab report:
 
@@ -29,11 +29,9 @@ You can look at the template to see how these reports will be organized, but as 
 
 ## Organizing Your Lab Reports
 
-Your lab reports will comprise a collection of Markdown or `.md` files collected in a [Github Classroom Repository](https://classroom.github.com/a/wiicl2x4). We will learn how to write in Markdown and contribute to Github during the first lab (which you will reflect on in your first lab report). Your repository will sync with my Github classroom so I can check in on your progress. I may also download particularly strong entries for reposting as model student lab reports on the class website.
+Your lab reports will comprise a collection of Markdown or `.md` files collected in the `lab-reports` folder of your [Github Classroom Repository](https://classroom.github.com/a/SnpUFxYd). We will learn how to write in Markdown and contribute to Github during the first lab (which you will reflect on in your first lab report). Your repository will sync with my Github classroom so I can check in on your progress. I may also download particularly strong entries for reposting as model student lab reports on the class website.
 
-You should name your files following the following convention:
-
-`YYYY-MM-DD-labreport-LABNAME.md`
+You should name your files following the following convention: `YYYY-MM-DD-labreport-LABNAME.md` (Year dash two-number-month dash two-number-day dash labreport dash name-of-lab-from-class-schedule period md)
 
 ### Flexibility
 
@@ -43,6 +41,6 @@ ToT is a challenging and full class. The semester will include sixteen labs (a r
 
 Your lab reports should constitute a developing record of your thinking about our class and its activities. Thus you should be working on them steadily, responding to the labs in a timely manner, in part to keep your thinking fresh and in part to avoid falling too far behind as new labs approach. 
 
-Lab report entries are due within one week of the lab session. If a particular lab session extends through multiple classes, its report is due within one week of the final classroom session devoted to it. You may not wait until late in the semester to complete lab reports for activities earlier in the semester, and I will check your repositories periodically to ensure you are working steadily. The coding labs, in particular, will build on each other and you will find it difficult to complete reports for later coding labs if you do not complete earlier ones. 
+Lab reports are due within one week of the lab session. If a particular lab session extends through multiple classes, its report is due within one week of the final classroom session devoted to it. You may not wait until late in the semester to complete lab reports for activities earlier in the semester, and I will check your repositories periodically to ensure you are working steadily. The coding labs, in particular, will build on each other and you will find it difficult to complete reports for later coding labs if you do not complete earlier ones. 
 
 I regularly assign ongoing assignments in my classes and every semester I strongly urge students to start working early in order to complete the work. Each semester at least a few students ignore this urging, usually to their later dismay. Complications will almost certainly arise during the semester, and if you put off starting your lab reports you will struggle to earn full credit on this assignment. 
