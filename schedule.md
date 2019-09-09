@@ -48,8 +48,8 @@ Prep:
 Prep: 
 
 + Ælfric, [Preface to his translation of Genesis](https://brandonwhawk.net/2014/07/30/aelfrics-preface-to-genesis-a-translation/) (ca. 990)
-+ Octavia Bulter, ["Speech Sounds"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9484553540001401?auth=SAML) (1983)
-+ James Gleick, ["Drums that Talk"](https://pen.org/drums-that-talk/) (2012)
++ Octavia Butler, ["Speech Sounds"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9484553540001401?auth=SAML) (1983)
++ Amaranth Borsuk, “The Book as Object” from *The Book* (2018)
 + Annette Vee, “Introduction: Computer Programming as Literacy” from [*Coding Literacy: How Computer Programming is Changing Writing*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052630001401?auth=SAML) (2018)
 
 
