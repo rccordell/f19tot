@@ -207,7 +207,7 @@ Prep:
 
 Prep:
 
-+ + Pagan Kennedy, "Prologue," "Back to Pagan," "Pagan’s Discovered to be Seventh Partridge," and "Epilogue" from [*'Zine*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9563579830001401?auth=SAML) (1995)
++ Pagan Kennedy, "Prologue," "Back to Pagan," "Pagan’s Discovered to be Seventh Partridge," and "Epilogue" from [*'Zine*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9563579830001401?auth=SAML) (1995)
 + Zine Librarians [Code of Ethics](http://zinelibraries.info/wordpress/wp-content/uploads/2015/11/EthicsZine-rev-20151105.pdf) (2015)
 + Erin Dorney, ["6 Styles of Erasure Poetry"](https://trishhopkinson.com/2018/06/10/6-styles-of-erasure-poetry-guest-blog-post-by-erin-dorney/)
 + Amaranth Borsuk, “The Book as Interface” from *The Book* (2018)
