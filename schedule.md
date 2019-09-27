@@ -79,7 +79,7 @@ Prep:
 
 Prep: 
 
-+ Emily Faithfull, ["Women Compositors,"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9007242390001401?auth=SAML) *English Woman's Journal* (1861)
++ Emily Faithfull, ["Women Compositors,"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052690001401?auth=SAML) *English Woman's Journal* (1861)
 + Marcy J. Dinius, ["'Look!! Look!!! at This!!!!': The Radical Typography of David Walker’s Appeal"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427055560001401?auth=SAML) (2011)
 + Leah Price, "The Real Life of Books" from *What We Talk About When We Talk About Books* (2019)
 
