@@ -4,6 +4,8 @@ title: Dead Media Poster Presentation
 bigimg: /img/Messenger_pigeon_released_from_British_tank_1918_IWM_Q_9247-banner.jpg
 ---
 
+[Sign up for your dead medium here](https://docs.google.com/spreadsheets/d/1p3M1jw5IoXSmrXG_wb3sQFI2DZPOn1CDdmgZ9dTUihM/edit?usp=sharing)
+
 In [“Imagining the New Media Encounter,"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-3-1&toc.depth=1&toc.id=ss1-3-1&brand=9781405148641_brand) Alan Liu suggests that “The déjá vu haunting of new by old media is clear enough.” New technologies and new modes of communication draw, both technically and metaphorically, from older modes—including “dead media” that have, to all surface appearances, entirely disappeared.
 
 To better understand this haunting, you will work in pairs to research a historical new medium and/or technology that flourished and then faded from popular view: some might call this [“media archaeology”](http://mediaarchaeologylab.com/). These new media might be very old or relatively new: new textual technologies have emerged since the invention of writing, while some popular technologies introduced as recently as a decade ago are already obsolete. 
@@ -28,4 +30,4 @@ You will prepare a conference-style poster to present your “dead medium” to 
 
 You should not attempt on your poster to tell us everything that you might say about your chosen medium in a written paper nor explain its every nuance. When designing think CONCISE, INFORMATIVE, and CREATIVE. Students often choose to create a model or interactive aspect to their poster to help their colleagues understand their medium. The idea here is that the form’s restriction (paradoxically) promotes your creativity, as some might argue the formal restrictions of certain poetic forms force the poet toward ever-more-deft feats of language. You will have ample opportunity during the poster session to share more details and anecdotes from your research than you can fit onto your poster itself.
 
-**We will hold our “dead media” poster session in the lab section of class on January 30.**
+**We will hold our “dead media” poster session in the lab section of class on October 30.**
