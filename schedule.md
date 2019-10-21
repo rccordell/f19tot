@@ -132,7 +132,7 @@ Prep:
 
 ## Chapter Seven &#9755; Format
 
-### October 21
+### October 21 & 23
 
 Prep:
 
@@ -150,7 +150,7 @@ Prep:
 
 ## Chapter Eight &#9755; Sensation
 
-### October 23 & 28
+### October 28
 
 Prep: 
 
