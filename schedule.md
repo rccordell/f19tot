@@ -191,7 +191,7 @@ Prep:
 
 Prep:
 
-+ Ryan Cordell and Abby Mullen, ["'Fugitive Verses': The Circulation of Poems in Nineteenth-Century American Newspapers"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733660001401?auth=SAML) (2017). Also Read "Beautiful Snow" and 2 other verses of your choosing from [*Fugitive Verses*](http://fugitiverses.viraltexts.org), looking at the example poems at the example newspaper printing linked at the top of each.
++ Ryan Cordell and Abby Mullen, ["'Fugitive Verses': The Circulation of Poems in Nineteenth-Century American Newspapers"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9427052710001401?auth=SAML) (2017). Also Read "Beautiful Snow" and 2 other verses of your choosing from [*Fugitive Verses*](http://fugitiverses.viraltexts.org), looking at the example poems at the example newspaper printing linked at the top of each.
 + Catherine D'Ignazio and Lauren Klein, ["What Gets Counted Counts"](https://bookbook.pubpub.org/pub/rykaknh1?readingCollection=09555901) from *Data Feminism* (2018)
 
 

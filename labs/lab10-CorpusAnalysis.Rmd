@@ -1,0 +1,288 @@
+---
+title: "Lab 10 - Corpus Analysis"
+author: "Ryan Cordell"
+date: "2019-11-16"
+output: html_document
+---
+
+Before we even get started, let's load the libraries we'll need for today:
+
+```{r}
+
+library(tidyverse)
+library(tidytext)
+library(data.table)
+library(tokenizers)
+library(topicmodels)
+
+```
+
+For today's lab we'll work again with project Gutenberg. Instead of the works of Jane Austen, however, let's import a slightly larger corpus: 150 of the longest science fiction books in the collection. I want to import a bigger corpus to give you a better sense of what kinds of questions scholars typically employ computational methods to answer. If you want to know about Jane Austen's vocabulary, you're probably best off reading Austen closely. If you're interested in trends across hundreds, thousands, or tens of thousands of books (or magazines or newspapers or websites), however, then you might need some help from computational methods. 
+
+I've put some code you could use to import those books from Project Gutenberg below, but it takes awhile so I've commented the code out. You can adapt it to import collections from [Gutenberg's various collections](https://www.gutenberg.org/wiki/Category:Bookshelf), which are called "Bookshelves." If you're curious, you could experiment later with importing other genres from other bookshelves. And though we'll be moving on to new code today, you could also copy and paste any of the code from Lab 8 (word counts, ngrams) and experiment with those analyses using these larger corpora.
+
+```{r}
+# booklist <- gutenberg_works(gutenberg_bookshelf == "Science Fiction", languages = "en", only_text = TRUE)
+# books <- gutenberg_download(c(booklist$gutenberg_id), meta_fields = c("title","author"), strip = TRUE) %>%
+#   group_by(title, author) %>%
+#   summarise(text = paste(text, collapse = " ")) %>%
+#   ungroup() %>%
+#   select(text, title, author)
+
+# write.csv(books, file = "data/scifi.csv")
+
+# books <- fread("data/scifi.csv", stringsAsFactors=FALSE, encoding="Latin-1") %>%
+#  group_by(title, author) %>%
+#  summarise(text = paste(text, collapse = " ")) %>%
+#  mutate(characters = nchar(text)) %>% 
+#  arrange(desc(characters)) %>%
+#  ungroup() %>%
+#  slice(1:150) %>%
+#  select(text, title, author)
+```
+
+For today's lab, however, I've put the data into a CSV file, which you can import using the code that is not commented out. It still might take a minute or so to import--there are lots of books here!
+
+```{r}
+
+books <- fread("data/scifi.csv", stringsAsFactors=FALSE, encoding="Latin-1") %>%
+  select(text, title, author)
+
+words <- books %>%
+  unnest_tokens(word, text) 
+
+```
+
+# Sentiment Analysis
+
+Next we're moving into more complex computational territory, though we're only dipping our toes. Sentiment analysis is a method for tracing the emotional valences of texts. It does this, at base, by assigning an emotional valence to each word in a given text from a menu of possibilities. There are different SA algorithms that construe these possibilities differently, and there's a robust debate in computer science and related fields about which of these best represent the realities of language that SA models. Like any field, there are competing theories and methods, from which we will experiment with a few. But you should not construe the analyses we will conduct below as the only possibilities within the sentiment analysis field. Remember that humans design, debate, and modify algorithms: they are expressions of human intentions and desire for understanding, not impersonal structures descended from on high. 
+
+Okay, with that preface let's experiment a bit. Run the code below first with the `filter` line commented out. The resulting table might give you a better idea of the building blocks for sentiment analysis. Once you do that, remove the hashtag before `%>%` so that `filter(sentiment == "anger")` runs with the code. What has changed?
+
+```{r}
+
+sentiments <- get_sentiments("nrc") # %>% filter(sentiment == "anger")
+
+View(sentiments)
+
+```
+
+If we join the words in our science fiction novels with the "anger" words from the NRC set, we can see how often Gutenberg's scifi writers use these words in their fiction.
+
+```{r}
+
+words %>%
+  semi_join(sentiments) %>%
+  count(word, sort = TRUE)
+
+```
+
+We could even ask which scifi novels are the most "angry":
+
+```{r}
+
+words %>% 
+  filter(word %in% sentiments$word) %>%
+  count(title, author, sort=TRUE) %>%
+  View()
+
+```
+
+
+What might be misleading about this list of the "angriest" books? How might we fix that?
+
+```{r}
+
+
+
+```
+
+Now, let's create a new variable to store the 9 "angriest" books in our set to analyze further:
+
+```{r}
+
+angry_books <- words %>%
+  filter(word %in% sentiments$word) %>%
+  count(title, author, bookLength) %>%
+  mutate(EmoRatio = n / bookLength) %>%
+  arrange(desc(EmoRatio)) %>%
+  slice(1:9)
+
+```
+
+Okay, in the box below add code to change the variable `sentiment` to focus on something other than anger. Then create a variable called `YOURSENTIMENT_books` (where `YOURSENTIMENT` is whatever sentiment you chose) that lists the 9 books that draw most heavily from words associated with your chosen sentiment.
+
+```{r}
+
+
+
+```
+
+In the following code, we will try to use sentiment analysis to plot an emotional trajectory for each of the novels in our data set. This is pretty basic and there are more complex methods for doing this kind of work had we time. But generally, this is looking at every word's assigned emotion and assigning a general "positive" or "negative" valence to it. Then it's plotting the distribution of positivity vs. negativity through the course of each book and trying to create an overall graph that corresponds to the "highs" and "lows" of the plot. You probably want to expand these graphs. Are there any overall trends you notice? Any outliers? Can you find the reverse: the happiest 9 books using this method?
+
+```{r}
+
+books_sentiment <- words %>%
+  inner_join(get_sentiments("bing")) %>%
+  count(title, author, index = as.numeric(rownames(.)) %/% 80, sentiment) %>%
+  spread(sentiment, n, fill = 0) %>%
+  mutate(sentiment = positive - negative)
+
+ggplot(books_sentiment %>% filter(title %in% angry_books$title), 
+       aes(index, sentiment, fill = title)) +
+  geom_bar(stat = "identity", show.legend = FALSE) +
+  facet_wrap(~title, ncol = 3, scales = "free_x")
+
+```
+
+# Topic Modeling
+
+For the last exercise today,we'll take on one of the more complex methods for modeling texts that has been extremely popular in recent digital humanities research: topic modeling (or, if you want to impress someone, *latent dirichlet allocation*, or LDA). Topic modeling is a technique that tends to work best on *longer* stretches of many *distinct* texts. In other words, we definitely need a corpus. Today we'll use our relatively small corpus of science fiction novels to experiment with LDA, but topic modeling works even better for modeling much larger collections of text.
+
+Ok, on to topic modeling. We will overview the basic assumptions and processes of topic modeling algorithms together. Essentially, the probabilities behind topic models rely on a concept of *documents*: discrete units of text that, the method assumes, tell us something about the relationships among the words in those documents. Thus one of the most important considerations when preparing a corpus for topic modeling is determining a reasonable document size for analysis and whole novels, like our SciFi collection, are probably not the right size. If your documents are too long, we might not imagine that all words they comprise are as closely related to one another as the words comprising shorter documents. Often when scholars topic model novels, they use individual chapters as their documents, rather than entire novels. 
+
+Another option, which we employ here, is to "chunk" texts into documents of a given size: e.g. 100 words, 500 words. This method has the advantage of creating documents of roughly identical size across works that may not have parallel structures. Even novel chapters, for instance, might be widely disparate lengths, and we might decide they are not as comparable as 1000-word chunks. 
+
+
+```{r}
+
+tmBooks <- books %>%
+  filter(title %in% angry_books$title)
+
+bookChunks <- chunk_text(tmBooks$text, chunk_size = 100, doc_id = tmBooks$title) %>%
+  as_tibble() %>%
+  gather(doc_id, text)
+
+tmWords <- bookChunks %>%
+  unnest_tokens(word, text)
+
+```
+
+There are a series of deliberate steps required to prepare our texts for topic modeling. To begin with, we need to bring the words from our books into a data format we haven't used much this week: a matrix. Specifically we need to create a "document term matrix." We will not be able to view this data directly (it's just too big a table) but essentially a DTM lists every document on one axis and every word on the other, filling in the intersections with the count of each term in each document. [Here is an example](https://www.darrinbishop.com/blog/2017/10/text-analytics-document-term-matrix/) if this is difficult to visualize in your mind.
+
+```{r}
+
+wordCounts <- tmWords %>%
+  anti_join(stop_words %>% filter(lexicon == "SMART")) %>%
+  group_by(doc_id) %>%
+  count(word, sort = TRUE) %>%
+  ungroup()
+
+docsDTM <- wordCounts %>%
+  cast_dtm(doc_id, word, n)
+
+```
+
+
+## LDA
+
+There are a number of arguments that can be passed to the `LDA` function, but the most important one we use below is `k`, which determines the number of topics the corpus will be sorted into. Note that this code will take a little bit to finish running: it's doing *a lot*. We can talk about precisely what it's doing while it runs.
+
+```{r}
+
+docsLDA <- LDA(docsDTM, k = 10, method="Gibbs", control=list(alpha=0.5))
+
+```
+
+## Exploring Topic Models
+
+Once we prepare a topic model, we can begin to explore it and attempt to learn more about our corpus. We will have as many individual topics as we specified in the `LDA` function above, and we can explore the words in each topic as well as exploring the documents that draw most fully from given topics. 
+
+### Beta 
+
+The "beta" measurement in a topic model tells us how likely a word is to belong to a particular topic. We can investigate those words that are most strongly associated in a given topical group.
+
+```{r}
+
+docsTopics <- tidy(docsLDA, matrix = "beta")
+
+docsTopics %>%
+  group_by(topic) %>%
+  top_n(10, beta) %>%
+  ungroup() %>%
+  arrange(topic, -beta) %>%
+  mutate(term = reorder(term, beta)) %>%
+  ggplot(aes(term, beta, fill = factor(topic))) +
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~ topic, scales = "free") +
+  coord_flip()
+
+```
+
+Or we can dig into a single topic:
+
+```{r}
+
+docsTopics %>%
+  filter(topic == 1) %>%
+  top_n(20) %>%
+  arrange(-beta) %>%
+  View()
+
+
+```
+
+Or compare the words between two topics:
+
+```{r}
+
+topicSelect <- c(1,4)
+
+beta_spread <- docsTopics %>%
+  filter(topic %in% topicSelect) %>%
+  mutate(topic = paste0("topic", topic)) %>%
+  spread(topic, beta) %>%
+  filter(.[[2]] > .001 | .[[3]] > .001) %>%
+  mutate(log_ratio = log2(.[[3]] / .[[2]]))
+
+beta_spread %>%
+  group_by(direction = log_ratio > 0) %>%
+  top_n(20, abs(log_ratio)) %>%
+  ungroup() %>%
+  mutate(term = reorder(term, log_ratio)) %>%
+  ggplot(aes(term, log_ratio)) +
+  geom_col() +
+  labs(y = paste("Log2 ratio of beta in topic ", topicSelect[2], " / topic ", topicSelect[1])) +
+  coord_flip()
+
+```
+
+### Gamma
+
+One way to study topic models is by looking at the topics and investigating the words that makes up each. Another is to look at the documents that make up the corpus and investigate which topics they draw most heavily from. LDA's gamma measurement tell us what proportion of a given document the model estimates comes from a given topic. In the `docsLDAgamma` dataframe generated below, the `gamma` column tells us what proportion of words in each document the model has estimated come from each topic. You can see that some documents contain a mixture of topics, while others seem to draw primarily from a single topic. 
+
+```{r}
+
+docsLDAgamma <- tidy(docsLDA, matrix = "gamma") %>%
+  arrange(topic, -gamma) %>%
+  rename(doc_id = document)
+
+```
+
+We can walk through the code below together, and talk about how it might be useful. 
+
+```{r}
+
+docsLDAgamma %>%
+  filter(doc_id == docsLDAgamma[[1,1]]) %>%
+  arrange(desc(gamma)) %>%
+  View()
+
+topDocs <- bookChunks %>%
+  select(doc_id, text) %>%
+  right_join(docsLDAgamma, by = "doc_id") %>%
+  group_by(topic) %>%
+  top_n(5, gamma)
+
+augment(docsLDA, data = docsDTM) %>% View()
+
+```
+
+
+
+Now, as we end our work, let's be sure to close our sessions on RStudio Server:
+```{r}
+
+q()
+
+```
