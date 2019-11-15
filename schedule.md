@@ -203,8 +203,6 @@ Prep:
 
 ### November 18 & 20
 
-*Meet in the Northeastern Archives & Special Collections, 92 Snell Library (in the basement) on November 18*
-
 Prep:
 
 + Pagan Kennedy, "Prologue," "Back to Pagan," "Pagan’s Discovered to be Seventh Partridge," and "Epilogue" from [*'Zine*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9563579830001401?auth=SAML) (1995)
