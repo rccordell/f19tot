@@ -218,12 +218,9 @@ Prep:
 
 ### November 25
 
-Prep:
+Makeup from earlier lab
 
-+ Craig Mod, ["Future Reading"](https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print) (2015)
-+ Jon Bois, [“What Football Will Look Like in the Future”](https://www.sbnation.com/a/17776-football/) (2017)
-
-### Lab 12 &#8594; Electronic Literature
+### Lab 10 &#8594; Corpus Analysis
 
 -----
 
@@ -239,6 +236,9 @@ Prep:
 
 Prep:
 
-+ Emily St. John Mandel, [*Station Eleven*](http://amzn.to/2hSefIP)
++ Craig Mod, ["Future Reading"](https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print) (2015)
++ Jon Bois, [“What Football Will Look Like in the Future”](https://www.sbnation.com/a/17776-football/) (2017)
+
+### Lab 12 &#8594; Electronic Literature
 
 ### Presentations &#8594; Unessay Projects 
