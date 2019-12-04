@@ -45,7 +45,7 @@ For today's lab, however, I've put the data into a CSV file, which you can impor
 
 ```{r}
 
-books <- fread("data/scifi.csv", stringsAsFactors=FALSE, encoding="Latin-1") %>%
+books <- fread("data/scifi.csv", stringsAsFactors=FALSE, encoding="Latin-1", header = TRUE) %>%
   select(text, title, author)
 
 words <- books %>%
@@ -61,7 +61,7 @@ Okay, with that preface let's experiment a bit. Run the code below first with th
 
 ```{r}
 
-sentiments <- get_sentiments("nrc") # %>% filter(sentiment == "anger")
+sentiments <- get_sentiments("nrc") %>% filter(sentiment == "anger")
 
 View(sentiments)
 
@@ -93,7 +93,18 @@ What might be misleading about this list of the "angriest" books? How might we f
 
 ```{r}
 
+books <- books %>%
+  mutate(bookLength = nchar(text))
 
+words <- books %>%
+  unnest_tokens(word, text) 
+
+words %>%
+  filter(word %in% sentiments$word) %>%
+  count(title, author, bookLength) %>%
+  mutate(EmoRatio = n / bookLength) %>%
+  arrange(desc(EmoRatio)) %>%
+  View()
 
 ```
 
@@ -214,7 +225,7 @@ Or we can dig into a single topic:
 ```{r}
 
 docsTopics %>%
-  filter(topic == 1) %>%
+  filter(topic == 2) %>%
   top_n(20) %>%
   arrange(-beta) %>%
   View()
